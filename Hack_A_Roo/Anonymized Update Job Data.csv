@@ -1,0 +1,1332 @@
+﻿Job Result,Job Creation Time,Job Completion Time,Product Name,Component Being updated,Customer ID
+SUCCESS,11/5/19 14:47,11/5/19 15:13,Product 2,Component 1,17915
+SUCCESS,10/30/19 20:39,10/30/19 21:03,Product 2,Component 1,17915
+SUCCESS,10/25/19 17:05,10/25/19 17:10,Product 1,Component 5,98091
+SUCCESS,10/23/19 20:50,10/23/19 20:55,Product 2,Component 5,49383
+SUCCESS,10/22/19 21:40,10/22/19 21:48,Product 3,Component 5,99988
+SUCCESS,10/22/19 21:40,10/22/19 21:47,Product 3,Component 5,96169
+SUCCESS,10/19/19 17:17,10/19/19 17:26,Product 1,Component 5,21083
+FAILURE,10/19/19 17:10,10/19/19 17:16,Product 1,Component 5,21083
+SUCCESS,10/19/19 16:59,10/19/19 17:08,Product 1,Component 5,21083
+SUCCESS,10/18/19 21:15,10/18/19 21:20,Product 1,Component 1,21083
+SUCCESS,10/18/19 21:10,10/18/19 21:15,Product 1,Component 1,42233
+CANCELLED,10/18/19 20:42,10/18/19 20:44,Product 1,Component 1,42233
+CANCELLED,10/18/19 20:18,10/18/19 20:26,Product 1,Component 1,42233
+FAILURE,10/18/19 19:41,10/18/19 20:23,Product 1,Component 1,21083
+FAILURE,10/18/19 19:25,10/18/19 19:36,Product 1,Component 1,21083
+FAILURE,10/18/19 19:25,10/18/19 19:56,Product 1,Component 1,42233
+CANCELLED,10/18/19 18:49,10/18/19 19:20,Product 1,Component 1,21083
+CANCELLED,10/18/19 18:39,10/18/19 19:20,Product 1,Component 1,42233
+CANCELLED,10/18/19 18:04,10/18/19 18:39,Product 1,Component 1,42233
+SUCCESS,10/18/19 1:30,10/18/19 1:39,Product 1,Component 5,88684
+FAILURE,10/18/19 1:21,10/18/19 1:25,Product 1,Component 5,88684
+SUCCESS,10/17/19 0:25,10/17/19 0:42,Product 1,"Component 1,Component 2,Component 3,Component 4,Component 5",22719
+SUCCESS,10/16/19 23:32,10/16/19 23:42,Product 1,"Component 1,Component 2,Component 3,Component 4,Component 5",99376
+FAILURE,10/16/19 22:42,10/17/19 0:16,Product 1,"Component 1,Component 2,Component 3,Component 4,Component 5",22719
+FAILURE,10/16/19 22:36,10/16/19 23:22,Product 1,"Component 1,Component 2,Component 3,Component 4,Component 5",99376
+FAILURE,10/16/19 22:14,10/16/19 22:45,Product 1,"Component 1,Component 2,Component 3,Component 4,Component 5",22719
+SUCCESS,10/11/19 23:59,10/12/19 0:03,Product 1,Component 5,84180
+SUCCESS,10/11/19 23:44,10/11/19 23:49,Product 1,Component 5,83264
+FAILURE,10/11/19 23:38,10/11/19 23:41,Product 1,Component 5,83264
+SUCCESS,10/11/19 23:08,10/11/19 23:16,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,10/11/19 23:02,10/11/19 23:05,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,10/11/19 22:53,10/11/19 23:01,Product 1,"Component 1,Component 2,Component 3,Component 4",84180
+FAILURE,10/11/19 22:11,10/11/19 22:38,Product 1,"Component 1,Component 2,Component 3,Component 4",84180
+FAILURE,10/11/19 22:11,10/11/19 22:38,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,10/8/19 22:16,10/8/19 22:56,Product 1,"Component 1,Component 2",21083
+FAILURE,10/8/19 22:13,10/8/19 22:15,Product 1,"Component 1,Component 2",21083
+FAILURE,10/8/19 22:08,10/8/19 22:11,Product 1,"Component 1,Component 2",21083
+FAILURE,10/8/19 22:02,10/8/19 22:06,Product 1,"Component 1,Component 2",21083
+SUCCESS,10/5/19 0:33,10/5/19 0:37,Product 1,"Component 1,Component 2",99811
+SUCCESS,10/5/19 0:27,10/5/19 0:31,Product 1,"Component 1,Component 2",34494
+CANCELLED,10/5/19 0:01,10/5/19 0:33,Product 1,"Component 1,Component 2",99811
+CANCELLED,10/5/19 0:01,10/5/19 0:27,Product 1,"Component 1,Component 2",34494
+SUCCESS,10/4/19 21:09,10/4/19 21:41,Product 1,"Component 1,console",88684
+SUCCESS,10/4/19 21:03,10/4/19 21:07,Product 1,"dashed,console",88684
+SUCCESS,10/3/19 0:52,10/3/19 0:56,Product 1,Component 5,73613
+SUCCESS,10/3/19 0:52,10/3/19 0:57,Product 1,Component 5,25971
+SUCCESS,10/3/19 0:52,10/3/19 0:56,Product 1,Component 5,99811
+SUCCESS,10/3/19 0:52,10/3/19 0:56,Product 1,Component 5,42233
+SUCCESS,10/3/19 0:44,10/3/19 0:49,Product 1,Component 5,42233
+SUCCESS,10/3/19 0:42,10/3/19 0:48,Product 1,Component 5,77983
+CANCELLED,10/3/19 0:42,10/3/19 0:52,Product 1,Component 5,73613
+SUCCESS,10/3/19 0:41,10/3/19 0:49,Product 1,Component 5,24349
+SUCCESS,10/3/19 0:41,10/3/19 0:48,Product 1,Component 5,42233
+SUCCESS,10/3/19 0:41,10/3/19 0:50,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:41,10/3/19 0:50,Product 1,Component 5,85943
+SUCCESS,10/3/19 0:41,10/3/19 0:49,Product 1,Component 5,85943
+SUCCESS,10/3/19 0:41,10/3/19 0:48,Product 1,Component 5,77983
+SUCCESS,10/3/19 0:41,10/3/19 0:48,Product 1,Component 5,99549
+CANCELLED,10/3/19 0:41,10/3/19 0:51,Product 1,Component 5,25971
+SUCCESS,10/3/19 0:41,10/3/19 0:45,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:41,10/3/19 0:49,Product 1,Component 5,37622
+SUCCESS,10/3/19 0:41,10/3/19 0:48,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:41,10/3/19 0:48,Product 1,Component 5,19441
+SUCCESS,10/3/19 0:41,10/3/19 0:47,Product 1,Component 5,77983
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,99811
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,40707
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,85074
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,99376
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,77983
+SUCCESS,10/3/19 0:40,10/3/19 0:46,Product 1,Component 5,88684
+SUCCESS,10/3/19 0:40,10/3/19 0:44,Product 1,Component 5,85074
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,39170
+SUCCESS,10/3/19 0:40,10/3/19 0:47,Product 1,Component 5,24349
+CANCELLED,10/3/19 0:40,10/3/19 0:51,Product 1,Component 5,99811
+SUCCESS,10/3/19 0:40,10/3/19 0:44,Product 1,Component 5,21083
+CANCELLED,10/3/19 0:39,10/3/19 0:51,Product 1,Component 5,42233
+SUCCESS,10/3/19 0:39,10/3/19 0:44,Product 1,Component 5,99694
+SUCCESS,10/3/19 0:39,10/3/19 0:44,Product 1,Component 5,34494
+SUCCESS,10/3/19 0:38,10/3/19 0:43,Product 1,Component 5,99811
+SUCCESS,10/3/19 0:36,10/3/19 0:43,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:31,10/3/19 0:38,Product 1,Component 5,22719
+SUCCESS,10/3/19 0:29,10/3/19 0:40,Product 1,Component 5,25971
+SUCCESS,10/3/19 0:28,10/3/19 0:38,Product 1,Component 5,85074
+SUCCESS,10/3/19 0:27,10/3/19 0:37,Product 1,Component 5,21083
+CANCELLED,10/3/19 0:26,10/3/19 0:38,Product 1,Component 5,99811
+SUCCESS,10/3/19 0:26,10/3/19 0:33,Product 1,Component 5,77983
+SUCCESS,10/3/19 0:26,10/3/19 0:32,Product 1,Component 5,24349
+CANCELLED,10/3/19 0:26,10/3/19 0:27,Product 1,Component 5,83264
+SUCCESS,10/3/19 0:25,10/3/19 0:39,Product 1,Component 5,99694
+SUCCESS,10/3/19 0:25,10/3/19 0:37,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:25,10/3/19 0:34,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:25,10/3/19 0:38,Product 1,Component 5,22719
+SUCCESS,10/3/19 0:25,10/3/19 0:36,Product 1,Component 5,34494
+SUCCESS,10/3/19 0:25,10/3/19 0:38,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:25,10/3/19 0:38,Product 1,Component 5,25971
+SUCCESS,10/3/19 0:25,10/3/19 0:39,Product 1,Component 5,85074
+CANCELLED,10/3/19 0:25,10/3/19 0:38,Product 1,Component 5,34494
+SUCCESS,10/3/19 0:25,10/3/19 0:37,Product 1,Component 5,99549
+SUCCESS,10/3/19 0:25,10/3/19 0:38,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:25,10/3/19 0:35,Product 1,Component 5,77983
+SUCCESS,10/3/19 0:24,10/3/19 0:37,Product 1,Component 5,34494
+SUCCESS,10/3/19 0:24,10/3/19 0:36,Product 1,Component 5,99694
+SUCCESS,10/3/19 0:24,10/3/19 0:34,Product 1,Component 5,84180
+SUCCESS,10/3/19 0:24,10/3/19 0:38,Product 1,Component 5,99900
+SUCCESS,10/3/19 0:24,10/3/19 0:31,Product 1,Component 5,24349
+CANCELLED,10/3/19 0:24,10/3/19 0:35,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:24,10/3/19 0:35,Product 1,Component 5,37622
+SUCCESS,10/3/19 0:24,10/3/19 0:33,Product 1,Component 5,83264
+SUCCESS,10/3/19 0:24,10/3/19 0:35,Product 1,Component 5,83264
+SUCCESS,10/3/19 0:24,10/3/19 0:36,Product 1,Component 5,22719
+SUCCESS,10/3/19 0:24,10/3/19 0:35,Product 1,Component 5,24349
+SUCCESS,10/3/19 0:24,10/3/19 0:34,Product 1,Component 5,77983
+SUCCESS,10/3/19 0:24,10/3/19 0:31,Product 1,Component 5,85943
+SUCCESS,10/3/19 0:24,10/3/19 0:35,Product 1,Component 5,85074
+SUCCESS,10/3/19 0:23,10/3/19 0:30,Product 1,Component 5,99900
+SUCCESS,10/3/19 0:23,10/3/19 0:31,Product 1,Component 5,39170
+SUCCESS,10/3/19 0:23,10/3/19 0:30,Product 1,Component 5,76923
+SUCCESS,10/3/19 0:23,10/3/19 0:32,Product 1,Component 5,99694
+SUCCESS,10/3/19 0:23,10/3/19 0:31,Product 1,Component 5,76923
+SUCCESS,10/3/19 0:23,10/3/19 0:31,Product 1,Component 5,39170
+SUCCESS,10/3/19 0:23,10/3/19 0:34,Product 1,Component 5,21083
+SUCCESS,10/3/19 0:23,10/3/19 0:30,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:23,10/3/19 0:30,Product 1,Component 5,22719
+SUCCESS,10/3/19 0:23,10/3/19 0:32,Product 1,Component 5,99376
+SUCCESS,10/3/19 0:22,10/3/19 0:28,Product 1,Component 5,25971
+SUCCESS,10/3/19 0:22,10/3/19 0:28,Product 1,Component 5,37622
+SUCCESS,10/3/19 0:22,10/3/19 0:31,Product 1,Component 5,99811
+SUCCESS,10/3/19 0:22,10/3/19 0:30,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:22,10/3/19 0:30,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:22,10/3/19 0:26,Product 1,Component 5,84180
+SUCCESS,10/3/19 0:18,10/3/19 0:24,Product 1,Component 5,86788
+SUCCESS,10/3/19 0:15,10/3/19 0:23,Product 1,Component 5,34494
+SUCCESS,10/3/19 0:10,10/3/19 0:16,Product 1,Component 5,36063
+SUCCESS,10/3/19 0:06,10/3/19 0:17,Product 1,Component 5,42233
+SUCCESS,10/3/19 0:04,10/3/19 0:14,Product 1,Component 5,73613
+FAILURE,10/3/19 0:04,10/3/19 0:23,Product 1,Component 5,83264
+FAILURE,10/3/19 0:04,10/3/19 0:25,Product 1,Component 5,77983
+SUCCESS,10/3/19 0:04,10/3/19 0:17,Product 1,Component 5,99549
+SUCCESS,10/3/19 0:04,10/3/19 0:17,Product 1,Component 5,73613
+SUCCESS,10/3/19 0:04,10/3/19 0:15,Product 1,Component 5,37622
+SUCCESS,10/3/19 0:04,10/3/19 0:17,Product 1,Component 5,74737
+SUCCESS,10/3/19 0:03,10/3/19 0:14,Product 1,Component 5,85943
+SUCCESS,10/3/19 0:03,10/3/19 0:16,Product 1,Component 5,83264
+FAILURE,10/3/19 0:03,10/3/19 0:23,Product 1,Component 5,24349
+SUCCESS,10/3/19 0:03,10/3/19 0:14,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:03,10/3/19 0:12,Product 1,Component 5,85943
+CANCELLED,10/3/19 0:03,10/3/19 0:15,Product 1,Component 5,34494
+SUCCESS,10/3/19 0:03,10/3/19 0:14,Product 1,Component 5,75841
+SUCCESS,10/3/19 0:03,10/3/19 0:14,Product 1,Component 5,19441
+SUCCESS,10/3/19 0:03,10/3/19 0:14,Product 1,Component 5,19441
+SUCCESS,10/3/19 0:03,10/3/19 0:17,Product 1,Component 5,22719
+SUCCESS,10/3/19 0:03,10/3/19 0:12,Product 1,Component 5,74737
+SUCCESS,10/3/19 0:03,10/3/19 0:12,Product 1,Component 5,60422
+SUCCESS,10/3/19 0:03,10/3/19 0:13,Product 1,Component 5,19441
+SUCCESS,10/3/19 0:03,10/3/19 0:13,Product 1,Component 5,60422
+SUCCESS,10/3/19 0:03,10/3/19 0:12,Product 1,Component 5,76923
+SUCCESS,10/3/19 0:03,10/3/19 0:17,Product 1,Component 5,42233
+SUCCESS,10/3/19 0:03,10/3/19 0:12,Product 1,Component 5,84180
+FAILURE,10/3/19 0:02,10/3/19 0:18,Product 1,Component 5,86788
+SUCCESS,10/3/19 0:02,10/3/19 0:08,Product 1,Component 5,39170
+SUCCESS,10/3/19 0:02,10/3/19 0:12,Product 1,Component 5,19441
+SUCCESS,10/3/19 0:02,10/3/19 0:07,Product 1,Component 5,83264
+SUCCESS,10/3/19 0:02,10/3/19 0:12,Product 1,Component 5,99900
+CANCELLED,10/3/19 0:00,10/3/19 0:09,Product 1,Component 5,36063
+SUCCESS,10/3/19 0:00,10/3/19 0:06,Product 1,Component 5,86788
+SUCCESS,10/3/19 0:00,10/3/19 0:06,Product 1,Component 5,99549
+SUCCESS,10/3/19 0:00,10/3/19 0:06,Product 1,Component 5,99549
+SUCCESS,10/3/19 0:00,10/3/19 0:05,Product 1,Component 5,39170
+SUCCESS,10/2/19 19:46,10/2/19 19:53,Product 1,Component 5,65501
+SUCCESS,10/2/19 19:46,10/2/19 19:53,Product 1,Component 5,75510
+SUCCESS,10/2/19 19:46,10/2/19 19:51,Product 1,Component 5,98091
+SUCCESS,10/2/19 19:46,10/2/19 19:53,Product 1,Component 5,97064
+SUCCESS,10/2/19 19:46,10/2/19 19:53,Product 1,Component 5,81355
+SUCCESS,10/2/19 19:46,10/2/19 19:52,Product 1,Component 5,78520
+SUCCESS,10/2/19 19:46,10/2/19 19:52,Product 1,Component 5,98091
+SUCCESS,10/2/19 19:45,10/2/19 19:53,Product 1,Component 5,92697
+SUCCESS,10/2/19 19:45,10/2/19 19:50,Product 1,Component 5,98899
+SUCCESS,10/2/19 19:45,10/2/19 19:52,Product 1,Component 5,98091
+SUCCESS,10/2/19 19:45,10/2/19 19:53,Product 1,Component 5,98899
+SUCCESS,10/2/19 19:45,10/2/19 19:51,Product 1,Component 5,88748
+SUCCESS,10/2/19 19:45,10/2/19 19:53,Product 1,Component 5,98899
+SUCCESS,10/2/19 19:45,10/2/19 19:52,Product 1,Component 5,81355
+SUCCESS,10/2/19 19:45,10/2/19 19:50,Product 1,Component 5,97064
+SUCCESS,10/2/19 19:45,10/2/19 19:50,Product 1,Component 5,50154
+SUCCESS,10/2/19 19:45,10/2/19 19:50,Product 1,Component 5,78520
+SUCCESS,10/2/19 19:45,10/2/19 19:50,Product 1,Component 5,68994
+SUCCESS,10/2/19 19:45,10/2/19 19:50,Product 1,Component 5,92697
+SUCCESS,10/2/19 19:45,10/2/19 19:50,Product 1,Component 5,95821
+SUCCESS,10/2/19 19:45,10/2/19 19:49,Product 1,Component 5,37441
+SUCCESS,10/2/19 19:44,10/2/19 19:50,Product 1,Component 5,90824
+FAILURE,10/2/19 19:05,10/2/19 19:18,Product 1,Component 5,97064
+FAILURE,10/2/19 19:04,10/2/19 19:17,Product 1,Component 5,78520
+FAILURE,10/2/19 19:04,10/2/19 19:17,Product 1,Component 5,90824
+FAILURE,10/2/19 19:03,10/2/19 19:16,Product 1,Component 5,98091
+FAILURE,10/2/19 19:03,10/2/19 19:16,Product 1,Component 5,68994
+FAILURE,10/2/19 19:03,10/2/19 19:16,Product 1,Component 5,75510
+FAILURE,10/2/19 19:02,10/2/19 19:16,Product 1,Component 5,92697
+FAILURE,10/2/19 19:02,10/2/19 19:16,Product 1,Component 5,81355
+FAILURE,10/2/19 19:02,10/2/19 19:16,Product 1,Component 5,98899
+FAILURE,10/2/19 19:02,10/2/19 19:16,Product 1,Component 5,81355
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,98091
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,97064
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,98899
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,65501
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,98899
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,50154
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,92697
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,37441
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,95821
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,98091
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,88748
+FAILURE,10/2/19 19:02,10/2/19 19:15,Product 1,Component 5,78520
+SUCCESS,10/2/19 15:36,10/2/19 16:03,Product 2,Component 1,66717
+SUCCESS,10/2/19 15:36,10/2/19 16:06,Product 2,Component 1,38946
+SUCCESS,10/2/19 15:35,10/2/19 16:07,Product 2,Component 1,75619
+SUCCESS,10/2/19 15:35,10/2/19 16:04,Product 2,Component 1,21006
+SUCCESS,10/2/19 15:35,10/2/19 16:06,Product 2,Component 1,21006
+SUCCESS,10/2/19 15:35,10/2/19 16:07,Product 2,Component 1,79488
+SUCCESS,10/2/19 15:35,10/2/19 16:10,Product 2,Component 1,26959
+SUCCESS,10/1/19 1:34,10/1/19 1:39,Product 3,"Component 2,Component 3,Component 4",88643
+SUCCESS,10/1/19 1:27,10/1/19 2:07,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+SUCCESS,10/1/19 1:27,10/1/19 2:02,Product 2,"Component 1,Component 2,Component 3,Component 4",98071
+SUCCESS,10/1/19 1:26,10/1/19 2:06,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,10/1/19 1:24,10/1/19 2:02,Product 2,"Component 1,Component 2,Component 3,Component 4",99438
+SUCCESS,10/1/19 1:21,10/1/19 2:02,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+FAILURE,10/1/19 1:08,10/1/19 1:31,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,10/1/19 0:34,10/1/19 1:13,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,10/1/19 0:18,10/1/19 0:59,Product 2,"Component 1,Component 2,Component 3,Component 4",78836
+SUCCESS,10/1/19 0:16,10/1/19 0:46,Product 2,"Component 1,Component 2,Component 3,Component 4",26324
+SUCCESS,10/1/19 0:15,10/1/19 1:02,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+SUCCESS,10/1/19 0:15,10/1/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",56907
+SUCCESS,10/1/19 0:15,10/1/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+CANCELLED,10/1/19 0:15,10/1/19 1:25,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,10/1/19 0:15,10/1/19 0:51,Product 2,"Component 1,Component 2,Component 3,Component 4",56907
+SUCCESS,10/1/19 0:15,10/1/19 0:54,Product 2,"Component 1,Component 2,Component 3,Component 4",85990
+SUCCESS,10/1/19 0:14,10/1/19 0:54,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,10/1/19 0:14,10/1/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,10/1/19 0:14,10/1/19 0:49,Product 2,"Component 1,Component 2,Component 3,Component 4",64122
+SUCCESS,10/1/19 0:14,10/1/19 0:49,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+SUCCESS,10/1/19 0:14,10/1/19 0:56,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,10/1/19 0:14,10/1/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",85990
+CANCELLED,10/1/19 0:14,10/1/19 1:25,Product 2,"Component 1,Component 2,Component 3,Component 4",98071
+SUCCESS,10/1/19 0:14,10/1/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+SUCCESS,10/1/19 0:14,10/1/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",31540
+SUCCESS,10/1/19 0:14,10/1/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",98071
+SUCCESS,10/1/19 0:14,10/1/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",98071
+SUCCESS,10/1/19 0:14,10/1/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",78836
+SUCCESS,10/1/19 0:13,10/1/19 1:13,Product 2,"Component 1,Component 2,Component 3,Component 4",64122
+SUCCESS,10/1/19 0:13,10/1/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+SUCCESS,10/1/19 0:13,10/1/19 0:51,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,10/1/19 0:13,10/1/19 0:47,Product 2,"Component 1,Component 2,Component 3,Component 4",22814
+CANCELLED,10/1/19 0:13,10/1/19 1:25,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+FAILURE,10/1/19 0:13,10/1/19 0:17,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,10/1/19 0:13,10/1/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,10/1/19 0:13,10/1/19 0:51,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,10/1/19 0:13,10/1/19 1:22,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+SUCCESS,10/1/19 0:13,10/1/19 0:49,Product 2,"Component 1,Component 2,Component 3,Component 4",90260
+FAILURE,10/1/19 0:13,10/1/19 1:21,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+SUCCESS,10/1/19 0:13,10/1/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",90260
+FAILURE,10/1/19 0:13,10/1/19 0:28,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+FAILURE,10/1/19 0:13,10/1/19 0:15,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+SUCCESS,10/1/19 0:12,10/1/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",90260
+SUCCESS,10/1/19 0:12,10/1/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,10/1/19 0:12,10/1/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+SUCCESS,10/1/19 0:12,10/1/19 0:51,Product 2,"Component 1,Component 2,Component 3,Component 4",94807
+SUCCESS,10/1/19 0:12,10/1/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",84085
+SUCCESS,10/1/19 0:12,10/1/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",43299
+CANCELLED,10/1/19 0:12,10/1/19 1:24,Product 2,"Component 1,Component 2,Component 3,Component 4",99438
+SUCCESS,10/1/19 0:12,10/1/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,10/1/19 0:12,10/1/19 0:16,Product 2,"Component 1,Component 2,Component 3,Component 4",78836
+SUCCESS,10/1/19 0:12,10/1/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+SUCCESS,9/30/19 14:17,9/30/19 14:51,Product 1,Component 1,88684
+SUCCESS,9/27/19 23:46,9/27/19 23:51,Product 1,Component 1,21083
+CANCELLED,9/27/19 23:09,9/27/19 23:46,Product 1,Component 1,21083
+SUCCESS,9/27/19 0:02,9/27/19 0:48,Product 4 ,"Component 1,Component 2,Component 3,Component 4",42143
+SUCCESS,9/27/19 0:02,9/27/19 0:43,Product 4 ,"Component 1,Component 2,Component 3,Component 4",76746
+SUCCESS,9/27/19 0:02,9/27/19 0:44,Product 4 ,"Component 1,Component 2,Component 3,Component 4",42143
+SUCCESS,9/27/19 0:02,9/27/19 0:43,Product 4 ,"Component 1,Component 2,Component 3,Component 4",78716
+SUCCESS,9/27/19 0:02,9/27/19 0:47,Product 4 ,"Component 1,Component 2,Component 3,Component 4",43017
+SUCCESS,9/27/19 0:02,9/27/19 0:43,Product 4 ,"Component 1,Component 2,Component 3,Component 4",45823
+SUCCESS,9/27/19 0:02,9/27/19 0:46,Product 4 ,"Component 1,Component 2,Component 3,Component 4",79308
+SUCCESS,9/27/19 0:02,9/27/19 0:48,Product 4 ,"Component 1,Component 2,Component 3,Component 4",47738
+FAILURE,9/26/19 20:55,9/26/19 21:35,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+FAILURE,9/26/19 20:04,9/26/19 20:10,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,9/26/19 19:54,9/26/19 20:22,Product 4 ,"Component 1,Component 2,Component 3,Component 4",77806
+SUCCESS,9/26/19 19:54,9/26/19 20:24,Product 4 ,"Component 1,Component 2,Component 3,Component 4",52402
+SUCCESS,9/26/19 19:54,9/26/19 20:23,Product 4 ,"Component 1,Component 2,Component 3,Component 4",72214
+SUCCESS,9/26/19 19:54,9/26/19 20:23,Product 4 ,"Component 1,Component 2,Component 3,Component 4",77806
+SUCCESS,9/26/19 19:54,9/26/19 20:22,Product 4 ,"Component 1,Component 2,Component 3,Component 4",21278
+SUCCESS,9/26/19 19:54,9/26/19 20:20,Product 4 ,"Component 1,Component 2,Component 3,Component 4",91149
+SUCCESS,9/26/19 19:54,9/26/19 20:21,Product 4 ,"Component 1,Component 2,Component 3,Component 4",4089
+FAILURE,9/26/19 19:46,9/26/19 19:48,Product 1,"Component 1,Component 2,Component 3,Component 4",77806
+FAILURE,9/26/19 19:46,9/26/19 19:48,Product 1,"Component 1,Component 2,Component 3,Component 4",72214
+FAILURE,9/26/19 19:46,9/26/19 19:48,Product 1,"Component 1,Component 2,Component 3,Component 4",91149
+FAILURE,9/26/19 19:46,9/26/19 19:49,Product 1,"Component 1,Component 2,Component 3,Component 4",21278
+FAILURE,9/26/19 19:45,9/26/19 19:48,Product 1,"Component 1,Component 2,Component 3,Component 4",4089
+FAILURE,9/26/19 19:45,9/26/19 19:48,Product 1,"Component 1,Component 2,Component 3,Component 4",77806
+FAILURE,9/26/19 19:45,9/26/19 19:48,Product 1,"Component 1,Component 2,Component 3,Component 4",52402
+SUCCESS,9/26/19 19:30,9/26/19 19:58,Product 4 ,"Component 1,Component 3,Component 4,console",92370
+CANCELLED,9/26/19 19:23,9/26/19 19:29,Product 4 ,"Component 1,Component 3,Component 4,console",92370
+SUCCESS,9/26/19 16:00,9/26/19 16:09,Product 4 ,"Component 1,Component 3,Component 4,console",18220
+FAILURE,9/26/19 15:02,9/26/19 15:26,Product 4 ,"Component 1,Component 3,Component 4,console",18220
+SUCCESS,9/26/19 1:53,9/26/19 2:17,Product 2,"Component 1,Component 2,Component 3,Component 4",40007
+SUCCESS,9/26/19 1:41,9/26/19 2:15,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+SUCCESS,9/26/19 1:35,9/26/19 2:14,Product 2,"Component 1,Component 2,Component 3,Component 4",56907
+SUCCESS,9/26/19 1:33,9/26/19 1:41,Product 2,"Component 1,Component 2,Component 3,Component 4",26324
+SUCCESS,9/26/19 1:32,9/26/19 1:41,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+SUCCESS,9/26/19 1:32,9/26/19 1:39,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+FAILURE,9/26/19 1:31,9/26/19 1:51,Product 2,"Component 1,Component 2,Component 3,Component 4",40007
+SUCCESS,9/26/19 1:31,9/26/19 1:39,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,9/26/19 1:31,9/26/19 1:39,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+SUCCESS,9/26/19 1:30,9/26/19 1:39,Product 2,"Component 1,Component 2,Component 3,Component 4",40007
+SUCCESS,9/26/19 1:30,9/26/19 1:39,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+SUCCESS,9/26/19 1:30,9/26/19 1:38,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,9/26/19 1:29,9/26/19 1:38,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+SUCCESS,9/26/19 1:29,9/26/19 1:37,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,9/26/19 1:29,9/26/19 1:38,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+SUCCESS,9/26/19 1:29,9/26/19 1:37,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+SUCCESS,9/26/19 1:29,9/26/19 1:36,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+SUCCESS,9/26/19 1:28,9/26/19 1:36,Product 2,"Component 1,Component 2,Component 3,Component 4",26324
+SUCCESS,9/26/19 1:27,9/26/19 1:34,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+SUCCESS,9/26/19 1:27,9/26/19 1:34,Product 2,"Component 1,Component 2,Component 3,Component 4",84085
+SUCCESS,9/26/19 1:27,9/26/19 1:34,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,9/26/19 1:27,9/26/19 1:35,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+SUCCESS,9/26/19 1:26,9/26/19 1:34,Product 2,"Component 1,Component 2,Component 3,Component 4",31540
+SUCCESS,9/26/19 1:26,9/26/19 1:33,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,9/26/19 1:23,9/26/19 1:30,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,9/26/19 1:18,9/26/19 1:28,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+SUCCESS,9/26/19 1:18,9/26/19 1:26,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+SUCCESS,9/26/19 1:17,9/26/19 1:25,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+SUCCESS,9/26/19 1:08,9/26/19 1:17,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+SUCCESS,9/26/19 1:07,9/26/19 1:15,Product 2,"Component 1,Component 2,Component 3,Component 4",31540
+SUCCESS,9/26/19 1:07,9/26/19 1:16,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,9/26/19 1:07,9/26/19 1:14,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+SUCCESS,9/26/19 1:07,9/26/19 1:14,Product 2,"Component 1,Component 2,Component 3,Component 4",98071
+SUCCESS,9/26/19 1:05,9/26/19 1:09,Product 2,"Component 1,Component 2,Component 3,Component 4",90260
+FAILURE,9/26/19 0:15,9/26/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",26324
+FAILURE,9/26/19 0:15,9/26/19 0:57,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+FAILURE,9/26/19 0:15,9/26/19 0:56,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+FAILURE,9/26/19 0:15,9/26/19 0:58,Product 2,"Component 1,Component 2,Component 3,Component 4",40007
+FAILURE,9/26/19 0:15,9/26/19 0:45,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+FAILURE,9/26/19 0:15,9/26/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+CANCELLED,9/26/19 0:15,9/26/19 1:17,Product 2,"Component 1,Component 2,Component 3,Component 4",56907
+FAILURE,9/26/19 0:15,9/26/19 0:58,Product 2,"Component 1,Component 2,Component 3,Component 4",26324
+SUCCESS,9/26/19 0:15,9/26/19 0:37,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+FAILURE,9/26/19 0:15,9/26/19 0:46,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+FAILURE,9/26/19 0:15,9/26/19 0:58,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+FAILURE,9/26/19 0:15,9/26/19 0:59,Product 2,"Component 1,Component 2,Component 3,Component 4",40007
+FAILURE,9/26/19 0:14,9/26/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+FAILURE,9/26/19 0:14,9/26/19 0:45,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,9/26/19 0:14,9/26/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+FAILURE,9/26/19 0:14,9/26/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+FAILURE,9/26/19 0:14,9/26/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+FAILURE,9/26/19 0:14,9/26/19 0:42,Product 2,"Component 1,Component 2,Component 3,Component 4",31540
+FAILURE,9/26/19 0:14,9/26/19 0:58,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,9/26/19 0:14,9/26/19 0:41,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,9/26/19 0:14,9/26/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",98071
+FAILURE,9/26/19 0:14,9/26/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+FAILURE,9/26/19 0:14,9/26/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+FAILURE,9/26/19 0:14,9/26/19 0:58,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+FAILURE,9/26/19 0:14,9/26/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+SUCCESS,9/26/19 0:14,9/26/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",31540
+FAILURE,9/26/19 0:14,9/26/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",84085
+SUCCESS,9/26/19 0:14,9/26/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",98990
+FAILURE,9/26/19 0:14,9/26/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",98071
+FAILURE,9/26/19 0:14,9/26/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+SUCCESS,9/26/19 0:14,9/26/19 0:59,Product 2,"Component 1,Component 2,Component 3,Component 4",1811
+FAILURE,9/26/19 0:14,9/26/19 0:59,Product 2,"Component 1,Component 2,Component 3,Component 4",31540
+SUCCESS,9/26/19 0:14,9/26/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",61301
+SUCCESS,9/26/19 0:14,9/26/19 0:49,Product 2,"Component 1,Component 2,Component 3,Component 4",84085
+FAILURE,9/26/19 0:14,9/26/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,9/26/19 0:13,9/26/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",10861
+SUCCESS,9/26/19 0:13,9/26/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+FAILURE,9/26/19 0:13,9/26/19 0:42,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+FAILURE,9/26/19 0:13,9/26/19 0:58,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+SUCCESS,9/26/19 0:13,9/26/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+FAILURE,9/26/19 0:13,9/26/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+SUCCESS,9/26/19 0:13,9/26/19 0:51,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+FAILURE,9/26/19 0:13,9/26/19 0:45,Product 2,"Component 1,Component 2,Component 3,Component 4",90260
+SUCCESS,9/26/19 0:13,9/26/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",43299
+SUCCESS,9/26/19 0:13,9/26/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+SUCCESS,9/26/19 0:13,9/26/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",22814
+CANCELLED,9/26/19 0:13,9/26/19 1:41,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+FAILURE,9/26/19 0:13,9/26/19 0:56,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+SUCCESS,9/26/19 0:13,9/26/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",90260
+SUCCESS,9/26/19 0:13,9/26/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",78836
+SUCCESS,9/26/19 0:13,9/26/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",70809
+SUCCESS,9/26/19 0:13,9/26/19 0:50,Product 2,"Component 1,Component 2,Component 3,Component 4",10861
+SUCCESS,9/26/19 0:13,9/26/19 0:51,Product 2,"Component 1,Component 2,Component 3,Component 4",90260
+SUCCESS,9/26/19 0:13,9/26/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",97299
+FAILURE,9/26/19 0:13,9/26/19 0:54,Product 2,"Component 1,Component 2,Component 3,Component 4",53892
+SUCCESS,9/25/19 23:59,9/26/19 0:33,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:37,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",78836
+SUCCESS,9/25/19 23:59,9/26/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:44,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:37,Product 2,"Component 1,Component 2,Component 3,Component 4",99988
+SUCCESS,9/25/19 23:59,9/26/19 0:34,Product 2,"Component 1,Component 2,Component 3,Component 4",94807
+SUCCESS,9/25/19 23:51,9/25/19 23:54,Product 3,"Component 1,Component 2,Component 3,Component 4",68206
+FAILURE,9/25/19 19:53,9/25/19 20:29,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+FAILURE,9/25/19 18:51,9/25/19 20:22,Product 3,"Component 1,Component 2,Component 3,Component 4",68206
+CANCELLED,9/25/19 18:48,9/25/19 18:50,Product 3,"Component 1,Component 2,Component 3,Component 4",68206
+SUCCESS,9/25/19 18:44,9/25/19 18:51,Product 3,"Component 1,Component 2,Component 3,Component 4",78836
+FAILURE,9/25/19 18:09,9/25/19 18:50,Product 1,Component 1,19441
+FAILURE,9/25/19 18:02,9/25/19 18:07,Product 1,Component 1,19441
+FAILURE,9/25/19 17:28,9/25/19 18:14,Product 3,"Component 1,Component 2,Component 3,Component 4",78836
+CANCELLED,9/25/19 15:19,9/25/19 15:29,Product 3,"Component 1,Component 2,Component 3,Component 4",68206
+CANCELLED,9/25/19 15:14,9/25/19 15:17,Product 3,"Component 1,Component 2,Component 3,Component 4",68206
+FAILURE,9/24/19 20:27,9/24/19 20:43,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+CANCELLED,9/24/19 20:15,9/24/19 20:21,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+FAILURE,9/24/19 19:46,9/24/19 20:11,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+CANCELLED,9/24/19 19:05,9/24/19 19:27,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+FAILURE,9/24/19 15:04,9/24/19 15:21,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+CANCELLED,9/24/19 14:57,9/24/19 15:04,Product 3,"Component 1,Component 2,Component 3,Component 4",88643
+SUCCESS,9/23/19 21:17,9/23/19 21:25,Product 3,"Component 1,Component 2,Component 3,Component 4",43299
+FAILURE,9/23/19 20:37,9/23/19 20:39,Product 3,"Component 1,Component 2,Component 3,Component 4",43299
+CANCELLED,9/23/19 20:30,9/23/19 20:34,Product 3,"Component 1,Component 2,Component 3,Component 4",43299
+SUCCESS,9/23/19 19:30,9/23/19 19:36,Product 1,Component 1,34494
+FAILURE,9/23/19 18:56,9/23/19 19:08,Product 3,"Component 1,Component 2,Component 3,Component 4",43299
+CANCELLED,9/23/19 18:51,9/23/19 18:55,Product 3,"Component 1,Component 2,Component 3,Component 4",43299
+FAILURE,9/23/19 18:45,9/23/19 19:13,Product 1,Component 1,34494
+SUCCESS,9/21/19 21:20,9/21/19 21:26,Product 1,Component 1,99811
+CANCELLED,9/21/19 20:42,9/21/19 21:20,Product 1,Component 1,99811
+CANCELLED,9/21/19 20:00,9/21/19 20:04,Product 1,Component 1,99811
+SUCCESS,9/21/19 2:00,9/21/19 2:41,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+SUCCESS,9/21/19 1:14,9/21/19 1:49,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+CANCELLED,9/21/19 1:14,9/21/19 1:15,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+FAILURE,9/21/19 0:20,9/21/19 1:02,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,9/20/19 22:07,9/20/19 22:37,Product 1,Component 1,88684
+SUCCESS,9/18/19 19:50,9/18/19 20:17,Product 1,"Component 1,Component 2,Component 3,Component 4",5107
+SUCCESS,9/18/19 19:04,9/18/19 19:45,Product 1,"Component 1,Component 2,Component 3,Component 4",97064
+SUCCESS,9/18/19 0:43,9/18/19 1:14,Product 5,"Component 1,Component 3,Component 4,console",69779
+SUCCESS,9/17/19 23:32,9/17/19 23:39,Product 2,"Component 1,Component 2,Component 3,Component 4",96169
+SUCCESS,9/17/19 23:23,9/17/19 23:45,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+CANCELLED,9/17/19 23:19,9/17/19 23:32,Product 2,"Component 1,Component 2,Component 3,Component 4",96169
+CANCELLED,9/17/19 23:17,9/17/19 23:21,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+CANCELLED,9/17/19 23:02,9/17/19 23:17,Product 2,"Component 1,Component 2,Component 3,Component 4",88643
+CANCELLED,9/17/19 22:59,9/17/19 23:01,Product 2,"Component 1,Component 2,Component 3,Component 4",43299
+FAILURE,9/17/19 20:12,9/17/19 20:41,Product 2,"Component 1,Component 2,Component 3,Component 4",96169
+SUCCESS,9/17/19 19:58,9/17/19 20:24,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,9/17/19 0:06,9/17/19 0:37,Product 2,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,9/17/19 0:05,9/17/19 1:14,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,9/16/19 21:34,9/16/19 22:20,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,9/16/19 19:12,9/16/19 19:46,Product 1,"Component 1,Component 2,Component 3,Component 4",98899
+FAILURE,9/16/19 19:00,9/16/19 19:07,Product 1,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,9/13/19 2:01,9/13/19 2:31,Product 2,"Component 1,Component 2,Component 3,Component 4",84180
+SUCCESS,9/13/19 2:00,9/13/19 2:29,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,9/13/19 1:07,9/13/19 1:11,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,9/13/19 0:48,9/13/19 0:53,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/13/19 0:44,9/13/19 1:16,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,9/13/19 0:39,9/13/19 1:21,Product 2,"Component 1,Component 2,Component 3,Component 4",99376
+SUCCESS,9/13/19 0:39,9/13/19 1:02,Product 2,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,9/13/19 0:39,9/13/19 1:16,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,9/13/19 0:39,9/13/19 1:09,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,9/13/19 0:39,9/13/19 1:10,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,9/13/19 0:22,9/13/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,9/13/19 0:22,9/13/19 0:51,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+FAILURE,9/13/19 0:21,9/13/19 1:06,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,9/13/19 0:21,9/13/19 0:59,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+FAILURE,9/13/19 0:21,9/13/19 0:28,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,9/13/19 0:21,9/13/19 0:55,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+CANCELLED,9/13/19 0:07,9/13/19 0:47,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/13/19 0:06,9/13/19 0:51,Product 2,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,9/13/19 0:06,9/13/19 0:38,Product 2,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,9/13/19 0:05,9/13/19 0:39,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,9/13/19 0:05,9/13/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,9/13/19 0:05,9/13/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",37622
+SUCCESS,9/13/19 0:05,9/13/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,9/13/19 0:05,9/13/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+SUCCESS,9/13/19 0:05,9/13/19 0:33,Product 1,"Component 1,Component 2,Component 3,Component 4",25971
+SUCCESS,9/13/19 0:05,9/13/19 0:40,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+SUCCESS,9/12/19 19:03,9/12/19 19:40,Product 2,"Component 1,Component 2,Component 3,Component 4",90824
+SUCCESS,9/12/19 19:01,9/12/19 19:31,Product 1,"Component 1,Component 2,Component 3,Component 4",75510
+SUCCESS,9/12/19 19:01,9/12/19 19:31,Product 1,"Component 1,Component 2,Component 3,Component 4",81355
+SUCCESS,9/12/19 19:00,9/12/19 19:30,Product 2,"Component 1,Component 2,Component 3,Component 4",78520
+SUCCESS,9/12/19 19:00,9/12/19 19:27,Product 2,"Component 1,Component 2,Component 3,Component 4",78520
+SUCCESS,9/12/19 19:00,9/12/19 19:24,Product 2,"Component 1,Component 2,Component 3,Component 4",92697
+SUCCESS,9/12/19 19:00,9/12/19 19:28,Product 2,"Component 1,Component 2,Component 3,Component 4",68994
+SUCCESS,9/12/19 15:00,9/12/19 15:29,Product 1,"Component 1,Component 2,Component 3,Component 4",79488
+SUCCESS,9/12/19 9:08,9/12/19 9:15,Product 2,"Component 1,Component 2,Component 3,Component 4",99694
+FAILURE,9/12/19 8:39,9/12/19 8:43,Product 2,"Component 1,Component 2,Component 3,Component 4",99694
+FAILURE,9/12/19 8:34,9/12/19 8:37,Product 2,"Component 1,Component 2,Component 3,Component 4",99694
+SUCCESS,9/12/19 3:38,9/12/19 3:42,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+FAILURE,9/12/19 2:16,9/12/19 2:28,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,9/12/19 1:56,9/12/19 2:01,Product 2,"Component 1,Component 2,Component 3,Component 4",24349
+CANCELLED,9/12/19 1:50,9/12/19 1:55,Product 2,"Component 1,Component 2,Component 3,Component 4",24349
+CANCELLED,9/12/19 1:48,9/12/19 1:49,Product 2,"Component 1,Component 2,Component 3,Component 4",24349
+FAILURE,9/12/19 1:07,9/12/19 1:12,Product 2,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,9/12/19 0:51,9/12/19 0:54,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+SUCCESS,9/12/19 0:43,9/12/19 0:49,Product 2,"Component 1,Component 2,Component 3,Component 4",36063
+FAILURE,9/12/19 0:02,9/12/19 0:48,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+FAILURE,9/12/19 0:02,9/12/19 0:30,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,9/12/19 0:02,9/12/19 0:30,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,9/12/19 0:02,9/12/19 0:37,Product 1,"Component 1,Component 2,Component 3,Component 4",84180
+SUCCESS,9/12/19 0:02,9/12/19 0:41,Product 1,"Component 1,Component 2,Component 3,Component 4",99694
+SUCCESS,9/12/19 0:02,9/12/19 1:12,Product 2,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,9/12/19 0:02,9/12/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",25971
+SUCCESS,9/12/19 0:02,9/12/19 0:31,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/12/19 0:02,9/12/19 0:32,Product 2,"Component 1,Component 2,Component 3,Component 4",76923
+FAILURE,9/12/19 0:02,9/12/19 0:17,Product 2,"Component 1,Component 2,Component 3,Component 4",99694
+SUCCESS,9/12/19 0:01,9/12/19 0:29,Product 1,"Component 1,Component 2,Component 3,Component 4",25971
+SUCCESS,9/12/19 0:01,9/12/19 0:32,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,9/12/19 0:01,9/12/19 0:37,Product 1,"Component 1,Component 2,Component 3,Component 4",99900
+FAILURE,9/12/19 0:00,9/12/19 0:26,Product 2,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,9/12/19 0:00,9/12/19 0:32,Product 2,"Component 1,Component 2,Component 3,Component 4",99811
+SUCCESS,9/12/19 0:00,9/12/19 0:27,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,9/12/19 0:00,9/12/19 0:33,Product 1,"Component 1,Component 2,Component 3,Component 4",37622
+SUCCESS,9/12/19 0:00,9/12/19 0:46,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,9/12/19 0:00,9/12/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+SUCCESS,9/11/19 23:59,9/12/19 0:30,Product 2,"Component 1,Component 2,Component 3,Component 4",76923
+FAILURE,9/11/19 23:59,9/12/19 0:25,Product 2,"Component 1,Component 2,Component 3,Component 4",36063
+SUCCESS,9/11/19 23:59,9/12/19 0:28,Product 2,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,9/11/19 23:59,9/12/19 0:25,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,9/10/19 18:46,9/10/19 18:52,Product 2,"Component 1,Component 2,Component 3,Component 4",85074
+FAILURE,9/10/19 18:42,9/10/19 18:45,Product 2,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,9/10/19 18:34,9/10/19 18:50,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/10/19 18:31,9/10/19 18:38,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/10/19 18:31,9/10/19 18:36,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,9/10/19 1:30,9/10/19 1:33,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+CANCELLED,9/10/19 1:20,9/10/19 1:30,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,9/10/19 0:52,9/10/19 0:55,Product 1,"Component 1,Component 2,Component 3,Component 4",99811
+FAILURE,9/10/19 0:04,9/10/19 0:42,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,9/10/19 0:03,9/10/19 1:33,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+CANCELLED,9/10/19 0:02,9/10/19 0:50,Product 1,"Component 1,Component 2,Component 3,Component 4",99811
+SUCCESS,9/10/19 0:02,9/10/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",37622
+SUCCESS,9/10/19 0:02,9/10/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",99376
+SUCCESS,9/10/19 0:01,9/10/19 0:34,Product 2,"Component 1,Component 2,Component 3,Component 4",99811
+SUCCESS,9/10/19 0:01,9/10/19 0:38,Product 2,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,9/10/19 0:01,9/10/19 0:33,Product 2,"Component 1,Component 2,Component 3,Component 4",76923
+SUCCESS,9/10/19 0:01,9/10/19 0:42,Product 1,"Component 1,Component 2,Component 3,Component 4",25971
+SUCCESS,9/10/19 0:01,9/10/19 0:33,Product 1,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,9/10/19 0:00,9/10/19 0:29,Product 2,"Component 1,Component 2,Component 3,Component 4",74737
+SUCCESS,9/10/19 0:00,9/10/19 0:29,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+FAILURE,9/10/19 0:00,9/10/19 0:24,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,9/10/19 0:00,9/10/19 0:28,Product 2,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,9/10/19 0:00,9/10/19 0:27,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,9/10/19 0:00,9/10/19 0:32,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,9/9/19 23:59,9/10/19 0:28,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,9/9/19 23:59,9/10/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,9/9/19 23:59,9/10/19 0:25,Product 2,"Component 1,Component 2,Component 3,Component 4",77983
+FAILURE,9/9/19 23:59,9/10/19 0:42,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+FAILURE,9/9/19 23:59,9/10/19 0:41,Product 2,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,9/9/19 19:00,9/9/19 19:29,Product 2,"Component 1,Component 2,Component 3,Component 4",97064
+SUCCESS,9/9/19 19:00,9/9/19 19:33,Product 2,"Component 1,Component 2,Component 3,Component 4",88748
+SUCCESS,9/9/19 19:00,9/9/19 19:33,Product 2,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,9/9/19 19:00,9/9/19 19:43,Product 2,"Component 1,Component 2,Component 3,Component 4",50154
+SUCCESS,9/9/19 19:00,9/9/19 19:49,Product 2,"Component 1,Component 2,Component 3,Component 4",95821
+SUCCESS,9/9/19 18:59,9/9/19 19:49,Product 1,"Component 1,Component 2,Component 3,Component 4",81355
+SUCCESS,9/9/19 18:59,9/9/19 19:41,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+SUCCESS,9/9/19 16:29,9/9/19 16:38,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+SUCCESS,9/9/19 16:28,9/9/19 16:40,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+SUCCESS,9/9/19 16:28,9/9/19 16:41,Product 2,"Component 1,Component 2,Component 3,Component 4",56907
+SUCCESS,9/9/19 16:28,9/9/19 16:40,Product 2,"Component 1,Component 2,Component 3,Component 4",40007
+SUCCESS,9/9/19 16:27,9/9/19 16:36,Product 2,"Component 1,Component 2,Component 3,Component 4",85990
+SUCCESS,9/9/19 15:31,9/9/19 15:37,Product 2,"Component 1,Component 2,Component 3,Component 4",21006
+SUCCESS,9/9/19 15:01,9/9/19 15:36,Product 2,"Component 1,Component 2,Component 3,Component 4",75619
+SUCCESS,9/9/19 15:00,9/9/19 15:28,Product 2,"Component 1,Component 2,Component 3,Component 4",66717
+FAILURE,9/9/19 15:00,9/9/19 15:29,Product 2,"Component 1,Component 2,Component 3,Component 4",21006
+FAILURE,9/7/19 3:21,9/7/19 3:48,Product 2,"Component 1,Component 2,Component 3,Component 4",7254
+FAILURE,9/7/19 3:21,9/7/19 3:49,Product 2,"Component 1,Component 2,Component 3,Component 4",68206
+FAILURE,9/7/19 3:21,9/7/19 3:46,Product 2,"Component 1,Component 2,Component 3,Component 4",56907
+FAILURE,9/7/19 3:21,9/7/19 3:48,Product 2,"Component 1,Component 2,Component 3,Component 4",40007
+FAILURE,9/7/19 3:21,9/7/19 3:48,Product 2,"Component 1,Component 2,Component 3,Component 4",85990
+SUCCESS,9/6/19 1:03,9/6/19 1:06,Product 2,"Component 1,Component 2,Component 3,Component 4",99811
+CANCELLED,9/6/19 0:56,9/6/19 1:03,Product 2,"Component 1,Component 2,Component 3,Component 4",99811
+SUCCESS,9/6/19 0:56,9/6/19 0:59,Product 2,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,9/6/19 0:52,9/6/19 1:03,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+CANCELLED,9/6/19 0:46,9/6/19 0:46,Product 2,"Component 1,Component 2,Component 3,Component 4",99811
+SUCCESS,9/6/19 0:41,9/6/19 0:49,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,9/6/19 0:08,9/6/19 0:43,Product 2,"Component 1,Component 2,Component 3,Component 4",99694
+SUCCESS,9/6/19 0:08,9/6/19 0:42,Product 2,"Component 1,Component 2,Component 3,Component 4",75841
+FAILURE,9/6/19 0:08,9/6/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,9/6/19 0:08,9/6/19 0:46,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/6/19 0:07,9/6/19 0:41,Product 1,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,9/6/19 0:07,9/6/19 0:50,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/6/19 0:06,9/6/19 0:42,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,9/6/19 0:06,9/6/19 0:41,Product 1,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,9/6/19 0:06,9/6/19 0:40,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,9/6/19 0:06,9/6/19 0:42,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/6/19 0:06,9/6/19 0:41,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,9/6/19 0:05,9/6/19 0:42,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,9/6/19 0:05,9/6/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,9/6/19 0:05,9/6/19 0:42,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,9/6/19 0:05,9/6/19 0:42,Product 2,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,9/6/19 0:05,9/6/19 0:31,Product 2,"Component 1,Component 2,Component 3,Component 4",85943
+FAILURE,9/6/19 0:04,9/6/19 0:38,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,9/6/19 0:04,9/6/19 0:44,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+FAILURE,9/6/19 0:04,9/6/19 0:48,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,9/6/19 0:04,9/6/19 0:45,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,9/6/19 0:04,9/6/19 0:44,Product 1,"Component 1,Component 2,Component 3,Component 4",74737
+SUCCESS,9/6/19 0:02,9/6/19 0:28,Product 2,"Component 1,Component 2,Component 3,Component 4",42233
+FAILURE,9/6/19 0:02,9/6/19 0:15,Product 2,"Component 1,Component 2,Component 3,Component 4",99811
+SUCCESS,9/6/19 0:02,9/6/19 0:31,Product 2,"Component 1,Component 2,Component 3,Component 4",73613
+SUCCESS,9/6/19 0:02,9/6/19 0:30,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/6/19 0:01,9/6/19 0:37,Product 1,"Component 1,Component 2,Component 3,Component 4",37622
+SUCCESS,9/6/19 0:01,9/6/19 0:34,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,9/6/19 0:01,9/6/19 0:34,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,9/6/19 0:01,9/6/19 0:34,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,9/5/19 20:12,9/5/19 20:19,Product 2,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,9/5/19 19:52,9/5/19 20:03,Product 1,"Component 1,Component 2,Component 3,Component 4",92697
+CANCELLED,9/5/19 19:12,9/5/19 19:27,Product 1,"Component 1,Component 2,Component 3,Component 4",92697
+CANCELLED,9/5/19 19:06,9/5/19 19:12,Product 1,"Component 1,Component 2,Component 3,Component 4",92697
+SUCCESS,9/5/19 19:04,9/5/19 19:33,Product 1,"Component 1,Component 2,Component 3,Component 4",98091
+FAILURE,9/5/19 19:01,9/5/19 19:45,Product 2,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,9/5/19 19:01,9/5/19 19:54,Product 2,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,9/4/19 22:26,9/4/19 23:03,Product 2,"Component 1,Component 2,Component 3,Component 4",28199
+SUCCESS,9/4/19 22:26,9/4/19 23:05,Product 2,"Component 1,Component 2,Component 3,Component 4",99995
+SUCCESS,9/4/19 22:26,9/4/19 23:07,Product 2,"Component 1,Component 2,Component 3,Component 4",89764
+SUCCESS,9/4/19 22:26,9/4/19 23:10,Product 2,"Component 1,Component 2,Component 3,Component 4",30177
+SUCCESS,9/4/19 22:26,9/4/19 23:05,Product 2,"Component 1,Component 2,Component 3,Component 4",97462
+SUCCESS,9/4/19 22:17,9/4/19 22:25,Product 2,"Component 1,Component 2,Component 3,Component 4",34181
+SUCCESS,9/4/19 22:16,9/4/19 22:25,Product 2,"Component 1,Component 2,Component 3,Component 4",99958
+SUCCESS,9/4/19 22:16,9/4/19 22:25,Product 2,"Component 1,Component 2,Component 3,Component 4",59928
+SUCCESS,9/4/19 21:56,9/4/19 22:07,Product 2,"Component 1,Component 2,Component 3,Component 4",61938
+SUCCESS,9/4/19 21:41,9/4/19 21:54,Product 2,"Component 1,Component 2,Component 3,Component 4",88170
+FAILURE,9/4/19 21:33,9/4/19 21:37,Product 2,"Component 1,Component 2,Component 3,Component 4",88170
+FAILURE,9/4/19 20:57,9/4/19 21:03,Product 2,"Component 1,Component 2,Component 3,Component 4",61938
+FAILURE,9/4/19 20:56,9/4/19 21:00,Product 2,"Component 1,Component 2,Component 3,Component 4",59928
+FAILURE,9/4/19 20:56,9/4/19 21:04,Product 2,"Component 1,Component 2,Component 3,Component 4",99958
+FAILURE,9/4/19 20:56,9/4/19 21:04,Product 2,"Component 1,Component 2,Component 3,Component 4",34181
+FAILURE,9/4/19 20:56,9/4/19 21:03,Product 2,"Component 1,Component 2,Component 3,Component 4",88170
+CANCELLED,9/4/19 20:55,9/4/19 20:58,Product 2,"Component 1,Component 2,Component 3,Component 4",88170
+CANCELLED,9/4/19 20:55,9/4/19 20:57,Product 2,"Component 1,Component 2,Component 3,Component 4",59928
+CANCELLED,9/4/19 20:55,9/4/19 20:57,Product 2,"Component 1,Component 2,Component 3,Component 4",34181
+CANCELLED,9/4/19 20:55,9/4/19 20:57,Product 2,"Component 1,Component 2,Component 3,Component 4",61938
+CANCELLED,9/4/19 20:55,9/4/19 20:58,Product 2,"Component 1,Component 2,Component 3,Component 4",99958
+SUCCESS,9/3/19 18:02,9/3/19 18:30,Product 2,"Component 1,Component 2,Component 3,Component 4",87537
+SUCCESS,8/30/19 23:01,8/30/19 23:28,Product 2,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,8/30/19 21:56,8/30/19 22:02,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,8/30/19 18:29,8/30/19 18:33,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+CANCELLED,8/30/19 18:28,8/30/19 18:30,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,8/30/19 17:08,8/30/19 17:33,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+SUCCESS,8/29/19 7:54,8/29/19 7:59,Product 2,"Component 1,Component 2,Component 3,Component 4",86537
+FAILURE,8/29/19 7:36,8/29/19 7:54,Product 2,"Component 1,Component 2,Component 3,Component 4",86537
+FAILURE,8/29/19 7:02,8/29/19 7:22,Product 2,"Component 1,Component 2,Component 3,Component 4",86537
+SUCCESS,8/26/19 19:25,8/26/19 19:35,Product 2,"Component 1,Component 2,Component 3,Component 4",38946
+SUCCESS,8/26/19 18:27,8/26/19 18:34,Product 1,"Component 1,Component 2,Component 3,Component 4",21006
+FAILURE,8/26/19 17:57,8/26/19 18:17,Product 2,"Component 1,Component 2,Component 3,Component 4",98091
+FAILURE,8/26/19 15:40,8/26/19 15:43,Product 2,"Component 1,Component 2,Component 3,Component 4",38946
+FAILURE,8/26/19 15:14,8/26/19 15:33,Product 1,"Component 1,Component 2,Component 3,Component 4",21006
+FAILURE,8/26/19 15:02,8/26/19 15:26,Product 2,"Component 1,Component 2,Component 3,Component 4",38946
+FAILURE,8/26/19 15:01,8/26/19 15:11,Product 1,"Component 1,Component 2,Component 3,Component 4",21006
+FAILURE,8/26/19 14:03,8/26/19 14:17,Product 2,"Component 1,Component 2,Component 3,Component 4",87537
+SUCCESS,8/21/19 20:57,8/21/19 21:37,Product 2,"Component 1,Component 2,Component 3,Component 4",86537
+SUCCESS,8/2/19 3:18,8/2/19 3:23,Product 4 ,"Component 2,Component 3,Component 4",43017
+SUCCESS,8/2/19 3:18,8/2/19 3:24,Product 4 ,"Component 2,Component 3,Component 4",79308
+FAILURE,8/2/19 2:53,8/2/19 3:11,Product 4 ,"Component 2,Component 3,Component 4",79308
+FAILURE,8/2/19 2:53,8/2/19 3:10,Product 4 ,"Component 2,Component 3,Component 4",43017
+SUCCESS,8/2/19 2:07,8/2/19 2:30,Product 2,"Component 2,Component 3,Component 4",86788
+SUCCESS,8/2/19 2:04,8/2/19 2:33,Product 1,"Component 2,Component 3,Component 4",83264
+SUCCESS,8/2/19 2:03,8/2/19 2:31,Product 2,"Component 2,Component 3,Component 4",99900
+SUCCESS,8/2/19 2:03,8/2/19 2:33,Product 2,"Component 2,Component 3,Component 4",39170
+SUCCESS,8/2/19 2:03,8/2/19 2:30,Product 2,"Component 2,Component 3,Component 4",85943
+SUCCESS,8/2/19 2:03,8/2/19 2:27,Product 2,"Component 2,Component 3,Component 4",83264
+SUCCESS,8/2/19 2:03,8/2/19 2:28,Product 2,"Component 2,Component 3,Component 4",99549
+FAILURE,8/2/19 2:03,8/2/19 2:35,Product 2,"Component 2,Component 3,Component 4",86788
+SUCCESS,8/2/19 2:03,8/2/19 2:21,Product 2,"Component 2,Component 3,Component 4",74737
+FAILURE,8/2/19 2:03,8/2/19 2:40,Product 2,"Component 2,Component 3,Component 4",84180
+SUCCESS,8/2/19 2:03,8/2/19 2:33,Product 2,"Component 2,Component 3,Component 4",19441
+SUCCESS,8/2/19 2:03,8/2/19 2:29,Product 2,"Component 2,Component 3,Component 4",39170
+SUCCESS,8/2/19 2:02,8/2/19 2:22,Product 2,"Component 2,Component 3,Component 4",99549
+SUCCESS,8/2/19 2:02,8/2/19 2:30,Product 2,"Component 2,Component 3,Component 4",19441
+SUCCESS,8/2/19 2:02,8/2/19 2:32,Product 2,"Component 2,Component 3,Component 4",36063
+SUCCESS,8/2/19 2:02,8/2/19 2:26,Product 2,"Component 2,Component 3,Component 4",76923
+SUCCESS,8/2/19 2:01,8/2/19 2:34,Product 1,"Component 2,Component 3,Component 4",85943
+SUCCESS,8/2/19 2:01,8/2/19 2:40,Product 1,"Component 2,Component 3,Component 4",75841
+SUCCESS,8/2/19 2:01,8/2/19 2:28,Product 1,"Component 2,Component 3,Component 4",83264
+SUCCESS,8/2/19 2:01,8/2/19 2:40,Product 1,"Component 2,Component 3,Component 4",73613
+FAILURE,8/2/19 2:01,8/2/19 2:39,Product 1,"Component 2,Component 3,Component 4",77983
+SUCCESS,8/2/19 2:01,8/2/19 2:27,Product 1,"Component 2,Component 3,Component 4",75841
+SUCCESS,8/2/19 2:01,8/2/19 2:33,Product 1,"Component 2,Component 3,Component 4",74737
+SUCCESS,8/2/19 2:01,8/2/19 2:28,Product 1,"Component 2,Component 3,Component 4",42233
+SUCCESS,8/2/19 2:01,8/2/19 2:24,Product 1,"Component 2,Component 3,Component 4",37622
+SUCCESS,8/2/19 2:01,8/2/19 2:34,Product 1,"Component 2,Component 3,Component 4",99549
+SUCCESS,8/2/19 2:01,8/2/19 2:25,Product 1,"Component 2,Component 3,Component 4",42233
+FAILURE,8/2/19 2:01,8/2/19 2:43,Product 1,"Component 2,Component 3,Component 4",24349
+SUCCESS,8/2/19 2:00,8/2/19 2:33,Product 1,"Component 2,Component 3,Component 4",34494
+SUCCESS,8/2/19 2:00,8/2/19 2:23,Product 1,"Component 2,Component 3,Component 4",73613
+SUCCESS,8/2/19 2:00,8/2/19 2:41,Product 1,"Component 2,Component 3,Component 4",22719
+SUCCESS,8/2/19 2:00,8/2/19 2:23,Product 1,"Component 2,Component 3,Component 4",60422
+SUCCESS,8/2/19 2:00,8/2/19 2:26,Product 1,"Component 2,Component 3,Component 4",19441
+SUCCESS,8/2/19 2:00,8/2/19 2:38,Product 1,"Component 2,Component 3,Component 4",19441
+SUCCESS,8/2/19 2:00,8/2/19 2:33,Product 1,"Component 2,Component 3,Component 4",60422
+SUCCESS,8/2/19 1:33,8/2/19 1:40,Product 2,"Component 2,Component 3,Component 4",76923
+FAILURE,8/2/19 1:27,8/2/19 1:29,Product 2,"Component 2,Component 3,Component 4",76923
+SUCCESS,8/2/19 1:21,8/2/19 2:34,Product 2,"Component 2,Component 3,Component 4",99811
+FAILURE,8/2/19 1:19,8/2/19 1:41,Product 2,"Component 2,Component 3,Component 4",42233
+SUCCESS,8/2/19 1:04,8/2/19 1:30,Product 2,"Component 2,Component 3,Component 4",99694
+SUCCESS,8/2/19 1:03,8/2/19 1:19,Product 1,"Component 2,Component 3,Component 4",25971
+FAILURE,8/2/19 1:02,8/2/19 1:55,Product 1,"Component 2,Component 3,Component 4",25971
+SUCCESS,8/2/19 1:02,8/2/19 1:31,Product 1,"Component 2,Component 3,Component 4",21083
+SUCCESS,8/2/19 1:02,8/2/19 1:30,Product 1,"Component 2,Component 3,Component 4",34494
+SUCCESS,8/2/19 1:02,8/2/19 1:11,Product 1,"Component 2,Component 3,Component 4",99694
+FAILURE,8/2/19 1:02,8/2/19 1:05,Product 1,"Component 2,Component 3,Component 4",24349
+SUCCESS,8/2/19 1:02,8/2/19 1:31,Product 1,"Component 2,Component 3,Component 4",85074
+SUCCESS,8/2/19 1:02,8/2/19 1:29,Product 1,"Component 2,Component 3,Component 4",85074
+SUCCESS,8/2/19 1:02,8/2/19 2:33,Product 1,"Component 2,Component 3,Component 4",22719
+SUCCESS,8/2/19 1:02,8/2/19 1:27,Product 1,"Component 2,Component 3,Component 4",21083
+SUCCESS,8/2/19 1:02,8/2/19 1:30,Product 1,"Component 2,Component 3,Component 4",99549
+SUCCESS,8/2/19 1:02,8/2/19 1:26,Product 1,"Component 2,Component 3,Component 4",22719
+SUCCESS,8/2/19 1:02,8/2/19 1:29,Product 1,"Component 2,Component 3,Component 4",24349
+SUCCESS,8/2/19 1:02,8/2/19 1:30,Product 1,"Component 2,Component 3,Component 4",84180
+SUCCESS,8/2/19 1:01,8/2/19 1:27,Product 1,"Component 2,Component 3,Component 4",24349
+SUCCESS,8/2/19 1:01,8/2/19 1:29,Product 1,"Component 2,Component 3,Component 4",75841
+FAILURE,8/2/19 1:01,8/2/19 1:05,Product 1,"Component 2,Component 3,Component 4",99694
+SUCCESS,8/2/19 1:00,8/2/19 1:18,Product 2,"Component 2,Component 3,Component 4",76923
+SUCCESS,8/2/19 1:00,8/2/19 1:13,Product 2,"Component 2,Component 3,Component 4",39170
+SUCCESS,8/2/19 1:00,8/2/19 1:21,Product 2,"Component 2,Component 3,Component 4",21083
+SUCCESS,8/2/19 1:00,8/2/19 1:28,Product 2,"Component 2,Component 3,Component 4",99694
+SUCCESS,8/2/19 1:00,8/2/19 1:16,Product 2,"Component 2,Component 3,Component 4",22719
+SUCCESS,8/2/19 1:00,8/2/19 1:24,Product 2,"Component 2,Component 3,Component 4",22719
+SUCCESS,8/2/19 1:00,8/2/19 1:30,Product 2,"Component 2,Component 3,Component 4",77983
+FAILURE,8/2/19 1:00,8/2/19 1:12,Product 2,"Component 2,Component 3,Component 4",99811
+FAILURE,8/2/19 1:00,8/2/19 1:03,Product 2,"Component 2,Component 3,Component 4",83264
+SUCCESS,8/2/19 1:00,8/2/19 1:08,Product 2,"Component 2,Component 3,Component 4",75841
+SUCCESS,8/2/19 1:00,8/2/19 1:24,Product 2,"Component 2,Component 3,Component 4",99376
+SUCCESS,8/2/19 1:00,8/2/19 1:18,Product 2,"Component 2,Component 3,Component 4",37622
+SUCCESS,8/2/19 1:00,8/2/19 1:23,Product 2,"Component 2,Component 3,Component 4",37622
+SUCCESS,8/2/19 0:59,8/2/19 1:27,Product 2,"Component 2,Component 3,Component 4",75841
+SUCCESS,8/2/19 0:59,8/2/19 1:19,Product 2,"Component 2,Component 3,Component 4",25971
+SUCCESS,8/2/19 0:59,8/2/19 1:29,Product 2,"Component 2,Component 3,Component 4",21083
+FAILURE,8/2/19 0:59,8/2/19 1:15,Product 2,"Component 2,Component 3,Component 4",42233
+FAILURE,8/2/19 0:59,8/2/19 1:22,Product 2,"Component 2,Component 3,Component 4",76923
+SUCCESS,8/2/19 0:59,8/2/19 1:23,Product 2,"Component 2,Component 3,Component 4",22719
+SUCCESS,8/2/19 0:03,8/2/19 0:14,Product 2,"Component 2,Component 3,Component 4",77983
+SUCCESS,8/2/19 0:03,8/2/19 0:15,Product 2,"Component 2,Component 3,Component 4",39170
+SUCCESS,8/2/19 0:03,8/2/19 0:15,Product 2,"Component 2,Component 3,Component 4",42233
+SUCCESS,8/2/19 0:02,8/2/19 0:15,Product 2,"Component 2,Component 3,Component 4",24349
+SUCCESS,8/2/19 0:02,8/2/19 0:17,Product 2,"Component 2,Component 3,Component 4",85074
+SUCCESS,8/2/19 0:02,8/2/19 0:17,Product 2,"Component 2,Component 3,Component 4",99811
+SUCCESS,8/2/19 0:02,8/2/19 0:17,Product 2,"Component 2,Component 3,Component 4",77983
+SUCCESS,8/2/19 0:02,8/2/19 0:14,Product 2,"Component 2,Component 3,Component 4",21083
+FAILURE,8/2/19 0:02,8/2/19 0:30,Product 2,"Component 2,Component 3,Component 4",99376
+SUCCESS,8/2/19 0:02,8/2/19 0:12,Product 2,"Component 2,Component 3,Component 4",99811
+SUCCESS,8/2/19 0:02,8/2/19 0:18,Product 2,"Component 2,Component 3,Component 4",21083
+SUCCESS,8/2/19 0:02,8/2/19 0:18,Product 1,"Component 2,Component 3,Component 4",37622
+SUCCESS,8/2/19 0:01,8/2/19 0:13,Product 1,"Component 2,Component 3,Component 4",77983
+SUCCESS,8/2/19 0:01,8/2/19 0:16,Product 1,"Component 2,Component 3,Component 4",99549
+SUCCESS,8/2/19 0:01,8/2/19 0:16,Product 1,"Component 2,Component 3,Component 4",19441
+SUCCESS,8/2/19 0:01,8/2/19 0:18,Product 1,"Component 2,Component 3,Component 4",99900
+SUCCESS,8/2/19 0:01,8/2/19 0:12,Product 1,"Component 2,Component 3,Component 4",24349
+SUCCESS,8/2/19 0:01,8/2/19 0:20,Product 1,"Component 2,Component 3,Component 4",21083
+SUCCESS,8/2/19 0:01,8/2/19 0:12,Product 1,"Component 2,Component 3,Component 4",77983
+SUCCESS,8/2/19 0:01,8/2/19 0:16,Product 1,"Component 2,Component 3,Component 4",99549
+SUCCESS,8/2/19 0:01,8/2/19 0:19,Product 1,"Component 2,Component 3,Component 4",85943
+SUCCESS,8/2/19 0:01,8/2/19 0:12,Product 1,"Component 2,Component 3,Component 4",42233
+SUCCESS,8/2/19 0:01,8/2/19 0:15,Product 1,"Component 2,Component 3,Component 4",25971
+SUCCESS,8/2/19 0:01,8/2/19 0:07,Product 1,"Component 2,Component 3,Component 4",21083
+SUCCESS,8/2/19 0:00,8/2/19 0:10,Product 4 ,"Component 2,Component 3,Component 4",40168
+SUCCESS,8/2/19 0:00,8/2/19 0:15,Product 4 ,"Component 2,Component 3,Component 4",47738
+SUCCESS,8/2/19 0:00,8/2/19 0:12,Product 4 ,"Component 2,Component 3,Component 4",45823
+SUCCESS,8/2/19 0:00,8/2/19 0:08,Product 4 ,"Component 2,Component 3,Component 4",42143
+SUCCESS,8/1/19 23:58,8/2/19 0:03,Product 1,"Component 2,Component 3,Component 4",88684
+SUCCESS,8/1/19 23:54,8/1/19 23:59,Product 1,"Component 2,Component 3,Component 4",88684
+SUCCESS,8/1/19 20:28,8/1/19 20:32,Product 2,"Component 2,Component 3,Component 4",92886
+SUCCESS,8/1/19 20:27,8/1/19 20:32,Product 2,"Component 2,Component 3,Component 4",77806
+SUCCESS,8/1/19 20:27,8/1/19 20:33,Product 2,"Component 2,Component 3,Component 4",4089
+SUCCESS,8/1/19 20:27,8/1/19 20:31,Product 2,"Component 2,Component 3,Component 4",52402
+SUCCESS,8/1/19 20:26,8/1/19 20:31,Product 2,"Component 2,Component 3,Component 4",21278
+SUCCESS,8/1/19 20:26,8/1/19 20:31,Product 2,"Component 2,Component 3,Component 4",72214
+SUCCESS,8/1/19 20:25,8/1/19 20:31,Product 2,"Component 2,Component 3,Component 4",77806
+FAILURE,8/1/19 19:51,8/1/19 20:09,Product 2,"Component 2,Component 3,Component 4",77806
+FAILURE,8/1/19 19:35,8/1/19 19:54,Product 2,"Component 2,Component 3,Component 4",72214
+FAILURE,8/1/19 19:34,8/1/19 19:54,Product 2,"Component 2,Component 3,Component 4",21278
+FAILURE,8/1/19 19:34,8/1/19 19:35,Product 2,"Component 2,Component 3,Component 4",#VALUE!
+FAILURE,8/1/19 19:34,8/1/19 19:53,Product 2,"Component 2,Component 3,Component 4",52402
+FAILURE,8/1/19 19:34,8/1/19 19:54,Product 2,"Component 2,Component 3,Component 4",4089
+FAILURE,8/1/19 19:34,8/1/19 19:54,Product 2,"Component 2,Component 3,Component 4",92886
+FAILURE,8/1/19 19:34,8/1/19 19:53,Product 2,"Component 2,Component 3,Component 4",77806
+CANCELLED,8/1/19 19:34,8/1/19 19:51,Product 2,"Component 2,Component 3,Component 4",77806
+SUCCESS,8/1/19 19:04,8/1/19 19:12,Product 2,"Component 2,Component 3,Component 4",90824
+SUCCESS,8/1/19 19:03,8/1/19 19:11,Product 2,"Component 2,Component 3,Component 4",92370
+SUCCESS,8/1/19 19:03,8/1/19 19:11,Product 1,"Component 2,Component 3,Component 4",65501
+SUCCESS,8/1/19 19:02,8/1/19 19:10,Product 1,"Component 2,Component 3,Component 4",81355
+SUCCESS,8/1/19 19:02,8/1/19 19:11,Product 1,"Component 2,Component 3,Component 4",97064
+SUCCESS,8/1/19 19:02,8/1/19 19:11,Product 1,"Component 2,Component 3,Component 4",81355
+SUCCESS,8/1/19 19:02,8/1/19 19:12,Product 1,"Component 2,Component 3,Component 4",75510
+SUCCESS,8/1/19 19:02,8/1/19 19:12,Product 1,"Component 2,Component 3,Component 4",98091
+SUCCESS,8/1/19 19:01,8/1/19 19:10,Product 2,"Component 2,Component 3,Component 4",68994
+SUCCESS,8/1/19 19:01,8/1/19 19:11,Product 2,"Component 2,Component 3,Component 4",98091
+SUCCESS,8/1/19 19:00,8/1/19 19:08,Product 2,"Component 2,Component 3,Component 4",98899
+SUCCESS,8/1/19 19:00,8/1/19 19:09,Product 2,"Component 2,Component 3,Component 4",97064
+SUCCESS,8/1/19 19:00,8/1/19 19:10,Product 2,"Component 2,Component 3,Component 4",78520
+SUCCESS,8/1/19 19:00,8/1/19 19:09,Product 2,"Component 2,Component 3,Component 4",50154
+SUCCESS,8/1/19 19:00,8/1/19 19:07,Product 2,"Component 2,Component 3,Component 4",98091
+SUCCESS,8/1/19 19:00,8/1/19 19:09,Product 2,"Component 2,Component 3,Component 4",98899
+SUCCESS,8/1/19 19:00,8/1/19 19:08,Product 2,"Component 2,Component 3,Component 4",92697
+SUCCESS,8/1/19 19:00,8/1/19 19:09,Product 2,"Component 2,Component 3,Component 4",78520
+SUCCESS,8/1/19 19:00,8/1/19 19:08,Product 2,"Component 2,Component 3,Component 4",95821
+SUCCESS,8/1/19 19:00,8/1/19 19:07,Product 2,"Component 2,Component 3,Component 4",88748
+SUCCESS,8/1/19 17:22,8/1/19 17:30,Product 1,"Component 2,Component 3,Component 4",21006
+SUCCESS,8/1/19 17:19,8/1/19 17:26,Product 1,"Component 2,Component 3,Component 4",79488
+SUCCESS,8/1/19 16:53,8/1/19 17:01,Product 2,"Component 2,Component 3,Component 4",66717
+SUCCESS,8/1/19 16:45,8/1/19 16:58,Product 1,"Component 2,Component 3,Component 4",75619
+CANCELLED,8/1/19 16:45,8/1/19 17:22,Product 1,"Component 2,Component 3,Component 4",21006
+FAILURE,8/1/19 16:45,8/1/19 16:52,Product 1,"Component 2,Component 3,Component 4",44518
+CANCELLED,8/1/19 16:45,8/1/19 17:20,Product 1,"Component 2,Component 3,Component 4",79488
+SUCCESS,8/1/19 16:41,8/1/19 16:50,Product 4 ,"Component 2,Component 3,Component 4",99977
+SUCCESS,8/1/19 16:39,8/1/19 16:52,Product 2,"Component 2,Component 3,Component 4",38946
+SUCCESS,8/1/19 16:39,8/1/19 16:48,Product 2,"Component 2,Component 3,Component 4",21006
+FAILURE,8/1/19 16:39,8/1/19 16:48,Product 2,"Component 2,Component 3,Component 4",66717
+FAILURE,8/1/19 15:49,8/1/19 15:56,Product 4 ,"Component 2,Component 4",99977
+FAILURE,8/1/19 15:47,8/1/19 15:58,Product 1,"Component 2,Component 4",75619
+FAILURE,8/1/19 15:47,8/1/19 15:53,Product 1,"Component 2,Component 4",44518
+FAILURE,8/1/19 15:47,8/1/19 15:59,Product 1,"Component 2,Component 4",21006
+FAILURE,8/1/19 15:47,8/1/19 15:59,Product 1,"Component 2,Component 4",79488
+FAILURE,8/1/19 15:45,8/1/19 15:51,Product 2,"Component 2,Component 4",21006
+FAILURE,8/1/19 15:45,8/1/19 15:51,Product 2,"Component 2,Component 4",66717
+CANCELLED,8/1/19 15:45,8/1/19 23:55,Product 2,"Component 2,Component 4",38946
+FAILURE,8/1/19 15:01,8/1/19 15:09,Product 4 ,"Component 2,Component 3,Component 4",99977
+FAILURE,8/1/19 15:01,8/1/19 15:07,Product 1,"Component 2,Component 3,Component 4",44518
+FAILURE,8/1/19 15:01,8/1/19 15:15,Product 1,"Component 2,Component 3,Component 4",21006
+FAILURE,8/1/19 15:01,8/1/19 15:13,Product 1,"Component 2,Component 3,Component 4",79488
+FAILURE,8/1/19 15:01,8/1/19 15:14,Product 1,"Component 2,Component 3,Component 4",75619
+FAILURE,8/1/19 15:00,8/1/19 15:11,Product 2,"Component 2,Component 3,Component 4",21006
+FAILURE,8/1/19 15:00,8/1/19 15:10,Product 2,"Component 2,Component 3,Component 4",66717
+FAILURE,8/1/19 15:00,8/1/19 15:13,Product 2,"Component 2,Component 3,Component 4",38946
+SUCCESS,7/30/19 18:19,7/30/19 18:26,Product 2,"Component 2,Component 3,Component 4",73613
+SUCCESS,7/29/19 18:20,7/29/19 18:31,Product 1,"Component 2,Component 3,Component 4",88684
+SUCCESS,7/15/19 20:30,7/15/19 20:46,Product 1,Component 1,92697
+CANCELLED,7/15/19 20:13,7/15/19 20:27,Product 1,Component 1,92697
+FAILURE,7/15/19 18:39,7/15/19 19:06,Product 1,Component 1,92697
+FAILURE,7/15/19 14:07,7/15/19 14:29,Product 1,Component 1,92697
+SUCCESS,7/12/19 21:14,7/12/19 21:41,Product 1,Component 1,88684
+CANCELLED,7/12/19 21:12,7/12/19 21:13,Product 1,Component 1,88684
+SUCCESS,7/2/19 18:58,7/2/19 20:12,Product 1,"Component 1,Component 2,Component 3,Component 4",97064
+SUCCESS,7/2/19 18:58,7/2/19 19:31,Product 2,"Component 1,Component 2,Component 3,Component 4",50154
+SUCCESS,7/2/19 18:58,7/2/19 19:30,Product 2,"Component 1,Component 2,Component 3,Component 4",95821
+SUCCESS,7/2/19 18:58,7/2/19 19:48,Product 2,"Component 1,Component 2,Component 3,Component 4",90824
+FAILURE,6/30/19 19:22,6/30/19 19:24,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+CANCELLED,6/25/19 0:50,6/26/19 21:47,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+FAILURE,6/24/19 23:01,6/24/19 23:37,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+CANCELLED,6/24/19 22:57,6/24/19 23:00,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+SUCCESS,6/19/19 1:50,6/19/19 1:57,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+FAILURE,6/19/19 0:08,6/19/19 0:36,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+FAILURE,6/19/19 0:07,1/1/70 0:00,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+CANCELLED,6/19/19 0:03,6/19/19 0:06,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/18/19 2:29,6/18/19 3:08,Product 4 ,"Component 1,Component 2,Component 3,Component 4",40168
+SUCCESS,6/18/19 1:59,6/18/19 2:37,Product 4 ,"Component 1,Component 2,Component 3,Component 4",45823
+SUCCESS,6/18/19 1:59,6/18/19 2:42,Product 4 ,"Component 1,Component 2,Component 3,Component 4",43017
+SUCCESS,6/18/19 1:59,6/18/19 2:46,Product 4 ,"Component 1,Component 2,Component 3,Component 4",79308
+SUCCESS,6/15/19 17:18,6/15/19 17:52,Product 1,Component 1,98899
+CANCELLED,6/15/19 16:58,6/15/19 17:06,Product 1,Component 1,98899
+SUCCESS,6/15/19 4:41,6/15/19 5:18,Product 1,"Component 1,Component 2,Component 3,Component 4",68994
+SUCCESS,6/13/19 14:54,6/13/19 14:58,Product 1,Component 1,83264
+SUCCESS,6/13/19 14:39,6/13/19 16:32,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,6/13/19 3:06,6/13/19 3:52,Product 1,Component 1,83264
+CANCELLED,6/13/19 2:53,6/13/19 3:06,Product 1,Component 1,83264
+FAILURE,6/13/19 1:35,6/13/19 2:48,Product 1,Component 1,83264
+FAILURE,6/12/19 22:40,6/12/19 22:47,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,6/12/19 21:46,6/12/19 22:03,Product 1,Component 1,83264
+FAILURE,6/12/19 21:30,6/12/19 22:46,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,6/12/19 21:08,6/12/19 21:25,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+SUCCESS,6/12/19 3:59,6/12/19 4:08,Product 4 ,"Component 1,Component 2,Component 3,Component 4",22426
+SUCCESS,6/12/19 2:02,6/12/19 3:04,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+FAILURE,6/11/19 23:56,6/12/19 0:24,Product 4 ,"Component 1,Component 2,Component 3,Component 4",22426
+SUCCESS,6/11/19 23:01,6/11/19 23:37,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,6/11/19 22:56,6/11/19 23:34,Product 4 ,"Component 1,Component 2,Component 3,Component 4",22426
+FAILURE,6/11/19 22:30,6/11/19 22:35,Product 1,"Component 1,Component 2,Component 3,Component 4",22426
+SUCCESS,6/11/19 2:08,6/11/19 2:53,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+FAILURE,6/11/19 2:00,6/11/19 2:17,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+SUCCESS,6/7/19 19:28,6/7/19 20:25,Product 1,Component 1,88684
+FAILURE,6/7/19 16:41,6/7/19 16:45,Product 1,Component 1,88684
+FAILURE,6/5/19 23:41,6/6/19 1:27,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+FAILURE,6/5/19 23:41,6/6/19 0:39,Product 1,"Component 1,Component 2,Component 3,Component 4",99376
+FAILURE,6/5/19 23:40,6/6/19 0:26,Product 1,"Component 1,Component 2,Component 3,Component 4",84180
+FAILURE,6/5/19 23:39,6/6/19 0:29,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,6/5/19 21:29,6/5/19 22:22,Product 1,"Component 1,Component 2,Component 3,Component 4",99811
+FAILURE,6/5/19 21:29,6/5/19 22:22,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+FAILURE,6/5/19 21:29,6/5/19 22:27,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+CANCELLED,6/5/19 21:29,6/5/19 21:32,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+CANCELLED,6/5/19 21:29,6/5/19 21:32,Product 1,"Component 1,Component 2,Component 3,Component 4",99376
+CANCELLED,6/5/19 21:29,6/5/19 21:31,Product 1,"Component 1,Component 2,Component 3,Component 4",84180
+CANCELLED,6/5/19 21:29,6/5/19 21:31,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,6/5/19 3:05,6/5/19 3:09,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,6/5/19 2:44,6/5/19 2:52,Product 2,"Component 1,Component 2,Component 3,Component 4",36063
+SUCCESS,6/5/19 2:38,6/5/19 3:26,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,6/5/19 2:36,6/5/19 2:44,Product 2,"Component 1,Component 2,Component 3,Component 4",99376
+FAILURE,6/5/19 2:36,6/5/19 3:01,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,6/5/19 2:33,6/5/19 2:42,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+FAILURE,6/5/19 2:31,6/5/19 2:55,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,6/5/19 2:02,6/5/19 2:12,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 2:01,6/5/19 2:12,Product 2,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,6/5/19 1:59,6/5/19 2:33,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+SUCCESS,6/5/19 1:58,6/5/19 2:32,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,6/5/19 1:57,6/5/19 2:24,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,6/5/19 1:24,6/5/19 1:28,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 1:22,6/5/19 1:30,Product 2,"Component 1,Component 2,Component 3,Component 4",99694
+SUCCESS,6/5/19 1:21,6/5/19 1:29,Product 2,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,6/5/19 1:20,6/5/19 1:27,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,6/5/19 1:19,6/5/19 1:26,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,6/5/19 1:17,6/5/19 1:25,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,6/5/19 1:16,6/5/19 1:27,Product 1,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,6/5/19 1:15,6/5/19 1:26,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,6/5/19 1:13,6/5/19 1:53,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 1:12,6/5/19 1:23,Product 1,"Component 1,Component 2,Component 3,Component 4",84180
+SUCCESS,6/5/19 1:10,6/5/19 1:17,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,6/5/19 1:09,6/5/19 1:17,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+FAILURE,6/5/19 1:07,6/5/19 1:14,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 1:06,6/5/19 1:14,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 1:05,6/5/19 1:31,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,6/5/19 1:05,6/5/19 1:15,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+FAILURE,6/5/19 1:04,6/5/19 1:23,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+SUCCESS,6/5/19 1:02,6/5/19 1:12,Product 1,"Component 1,Component 2,Component 3,Component 4",25971
+FAILURE,6/5/19 1:01,6/5/19 1:18,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,6/5/19 0:56,6/5/19 2:43,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,6/5/19 0:55,6/5/19 1:22,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,6/5/19 0:53,6/5/19 1:56,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+FAILURE,6/5/19 0:50,6/5/19 1:11,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,6/5/19 0:44,6/5/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,6/5/19 0:34,6/5/19 1:22,Product 2,"Component 1,Component 2,Component 3,Component 4",99376
+SUCCESS,6/5/19 0:31,6/5/19 1:09,Product 1,"Component 1,Component 2,Component 3,Component 4",37622
+SUCCESS,6/5/19 0:31,6/5/19 1:11,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,6/5/19 0:30,6/5/19 1:06,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,6/5/19 0:30,6/5/19 1:11,Product 1,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,6/5/19 0:28,6/5/19 0:58,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 0:28,6/5/19 1:02,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,6/5/19 0:28,6/5/19 1:02,Product 2,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,6/5/19 0:28,6/5/19 1:03,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,6/5/19 0:28,1/1/70 0:00,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,6/5/19 0:27,6/5/19 0:43,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+FAILURE,6/5/19 0:26,6/5/19 1:02,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+CANCELLED,6/5/19 0:26,6/5/19 0:29,Product 1,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,6/5/19 0:26,6/5/19 1:12,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+SUCCESS,6/5/19 0:25,6/5/19 1:07,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+FAILURE,6/5/19 0:25,6/5/19 0:38,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,6/5/19 0:24,6/5/19 1:09,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+FAILURE,6/5/19 0:24,6/5/19 1:13,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+FAILURE,6/5/19 0:24,6/5/19 0:55,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,6/5/19 0:23,6/5/19 1:03,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,6/5/19 0:23,6/5/19 1:02,Product 1,"Component 1,Component 2,Component 3,Component 4",74737
+SUCCESS,6/5/19 0:23,6/5/19 1:10,Product 1,"Component 1,Component 2,Component 3,Component 4",37622
+SUCCESS,6/5/19 0:23,6/5/19 1:11,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,6/5/19 0:23,6/5/19 0:57,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,6/5/19 0:23,1/1/70 0:00,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,6/5/19 0:22,6/5/19 1:03,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,6/5/19 0:22,6/5/19 1:10,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,6/5/19 0:22,6/5/19 1:10,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+FAILURE,6/5/19 0:21,6/5/19 1:18,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,6/5/19 0:21,6/5/19 1:10,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,6/5/19 0:21,6/5/19 1:03,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,6/5/19 0:21,6/5/19 1:00,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,6/5/19 0:21,6/5/19 0:51,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,6/5/19 0:21,6/5/19 1:00,Product 2,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,6/5/19 0:20,6/5/19 1:06,Product 2,"Component 1,Component 2,Component 3,Component 4",78191
+SUCCESS,6/5/19 0:20,6/5/19 1:03,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,6/5/19 0:20,6/5/19 1:08,Product 2,"Component 1,Component 2,Component 3,Component 4",78191
+SUCCESS,6/5/19 0:20,6/5/19 1:01,Product 2,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,6/5/19 0:20,6/5/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,6/5/19 0:20,6/5/19 0:52,Product 2,"Component 1,Component 2,Component 3,Component 4",76923
+SUCCESS,6/5/19 0:20,6/5/19 0:55,Product 2,"Component 1,Component 2,Component 3,Component 4",74737
+FAILURE,6/5/19 0:20,6/5/19 0:26,Product 2,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,6/5/19 0:19,6/5/19 1:02,Product 2,"Component 1,Component 2,Component 3,Component 4",19441
+FAILURE,6/5/19 0:19,6/5/19 0:57,Product 2,"Component 1,Component 2,Component 3,Component 4",36063
+SUCCESS,6/5/19 0:19,6/5/19 0:45,Product 2,"Component 1,Component 2,Component 3,Component 4",76923
+SUCCESS,6/5/19 0:19,6/5/19 1:02,Product 2,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,6/5/19 0:18,6/5/19 0:48,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+FAILURE,6/5/19 0:15,6/5/19 0:41,Product 1,"Component 1,Component 2,Component 3,Component 4",25971
+FAILURE,6/5/19 0:15,6/5/19 0:42,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+FAILURE,6/5/19 0:15,6/5/19 0:37,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 0:15,6/5/19 0:52,Product 1,"Component 1,Component 2,Component 3,Component 4",85074
+FAILURE,6/5/19 0:15,6/5/19 0:41,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+FAILURE,6/5/19 0:15,6/5/19 0:37,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,6/5/19 0:15,6/5/19 0:40,Product 1,"Component 1,Component 2,Component 3,Component 4",84180
+FAILURE,6/5/19 0:14,6/5/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+FAILURE,6/5/19 0:14,6/5/19 0:44,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+FAILURE,6/5/19 0:14,6/5/19 0:34,Product 1,"Component 1,Component 2,Component 3,Component 4",85074
+FAILURE,6/5/19 0:14,6/5/19 0:43,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+FAILURE,6/5/19 0:14,6/5/19 0:44,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+FAILURE,6/5/19 0:14,6/5/19 0:45,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+FAILURE,6/5/19 0:14,6/5/19 0:26,Product 2,"Component 1,Component 2,Component 3,Component 4",22719
+FAILURE,6/5/19 0:13,6/5/19 0:25,Product 2,"Component 1,Component 2,Component 3,Component 4",99694
+FAILURE,6/5/19 0:13,6/5/19 0:14,Product 2,"Component 1,Component 2,Component 3,Component 4",#VALUE!
+SUCCESS,6/5/19 0:13,6/5/19 0:48,Product 2,"Component 1,Component 2,Component 3,Component 4",99811
+SUCCESS,6/5/19 0:12,6/5/19 0:18,Product 2,"Component 1,Component 2,Component 3,Component 4",77983
+FAILURE,6/5/19 0:12,6/5/19 0:45,Product 2,"Component 1,Component 2,Component 3,Component 4",99376
+SUCCESS,6/5/19 0:12,6/5/19 2:24,Product 2,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,6/5/19 0:12,6/5/19 0:49,Product 2,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,6/5/19 0:12,6/5/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",25971
+SUCCESS,6/5/19 0:12,6/5/19 0:41,Product 2,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,6/5/19 0:12,6/5/19 0:49,Product 2,"Component 1,Component 2,Component 3,Component 4",37622
+FAILURE,6/5/19 0:12,6/5/19 0:16,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+FAILURE,6/5/19 0:12,6/5/19 0:25,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+FAILURE,6/5/19 0:12,6/5/19 0:31,Product 2,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,6/5/19 0:12,6/5/19 0:53,Product 2,"Component 1,Component 2,Component 3,Component 4",84180
+SUCCESS,6/5/19 0:10,6/5/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,6/5/19 0:10,6/5/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,6/5/19 0:09,6/5/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,6/5/19 0:09,6/5/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+FAILURE,6/5/19 0:09,6/5/19 0:32,Product 2,"Component 1,Component 2,Component 3,Component 4",99376
+SUCCESS,6/5/19 0:09,6/5/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,6/5/19 0:09,6/5/19 0:40,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,6/5/19 0:09,6/5/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",24349
+FAILURE,6/5/19 0:07,6/5/19 0:13,Product 1,"Component 1,Component 2,Component 3,Component 4",99599
+SUCCESS,6/5/19 0:07,6/5/19 0:34,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+FAILURE,6/5/19 0:07,6/5/19 0:13,Product 1,"Component 1,Component 2,Component 3,Component 4",95545
+FAILURE,6/5/19 0:07,6/5/19 0:13,Product 1,"Component 1,Component 2,Component 3,Component 4",4382
+FAILURE,6/5/19 0:07,6/5/19 0:13,Product 1,"Component 1,Component 2,Component 3,Component 4",73370
+FAILURE,6/5/19 0:07,6/5/19 0:12,Product 1,"Component 1,Component 2,Component 3,Component 4",99958
+FAILURE,6/5/19 0:07,6/5/19 0:13,Product 1,"Component 1,Component 2,Component 3,Component 4",95545
+FAILURE,6/5/19 0:07,6/5/19 0:12,Product 1,"Component 1,Component 2,Component 3,Component 4",13482
+FAILURE,6/5/19 0:07,6/5/19 0:12,Product 1,"Component 1,Component 2,Component 3,Component 4",99274
+FAILURE,6/5/19 0:07,6/5/19 0:13,Product 1,"Component 1,Component 2,Component 3,Component 4",93663
+SUCCESS,6/4/19 21:03,6/4/19 21:07,Product 1,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,6/4/19 20:29,6/4/19 21:07,Product 2,"Component 1,Component 2,Component 3,Component 4",50154
+CANCELLED,6/4/19 20:28,6/4/19 20:28,Product 1,"Component 1,Component 2,Component 3,Component 4",97064
+SUCCESS,6/4/19 20:27,6/4/19 21:12,Product 1,"Component 1,Component 2,Component 3,Component 4",97064
+SUCCESS,6/4/19 20:16,6/4/19 20:52,Product 2,"Component 1,Component 2,Component 3,Component 4",95821
+SUCCESS,6/4/19 20:14,6/4/19 20:55,Product 2,"Component 1,Component 2,Component 3,Component 4",90824
+SUCCESS,6/4/19 20:02,6/4/19 20:42,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+SUCCESS,6/4/19 20:02,6/4/19 20:43,Product 1,"Component 1,Component 2,Component 3,Component 4",81355
+FAILURE,6/4/19 20:02,6/4/19 20:09,Product 1,"Component 1,Component 2,Component 3,Component 4",97064
+FAILURE,6/4/19 20:02,6/4/19 20:36,Product 1,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,6/4/19 20:02,6/4/19 21:06,Product 1,"Component 1,Component 2,Component 3,Component 4",78520
+SUCCESS,6/4/19 20:02,6/4/19 20:32,Product 1,"Component 1,Component 2,Component 3,Component 4",75510
+FAILURE,6/4/19 20:01,6/4/19 20:07,Product 2,"Component 1,Component 2,Component 3,Component 4",50154
+SUCCESS,6/4/19 20:01,6/4/19 20:36,Product 2,"Component 1,Component 2,Component 3,Component 4",88748
+SUCCESS,6/4/19 20:01,6/4/19 20:35,Product 2,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,6/4/19 20:01,6/4/19 20:39,Product 2,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,6/4/19 20:00,6/4/19 20:35,Product 2,"Component 1,Component 2,Component 3,Component 4",65501
+SUCCESS,6/4/19 20:00,6/4/19 20:40,Product 2,"Component 1,Component 2,Component 3,Component 4",78520
+FAILURE,6/4/19 20:00,6/4/19 20:04,Product 2,"Component 1,Component 2,Component 3,Component 4",68994
+SUCCESS,6/4/19 20:00,6/4/19 20:37,Product 2,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,6/4/19 20:00,6/4/19 20:37,Product 2,"Component 1,Component 2,Component 3,Component 4",78520
+SUCCESS,6/4/19 20:00,6/4/19 20:58,Product 2,"Component 1,Component 2,Component 3,Component 4",68994
+FAILURE,6/4/19 20:00,6/4/19 20:07,Product 2,"Component 1,Component 2,Component 3,Component 4",95821
+FAILURE,6/4/19 20:00,6/4/19 20:07,Product 2,"Component 1,Component 2,Component 3,Component 4",90824
+SUCCESS,6/4/19 20:00,6/4/19 20:35,Product 2,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,6/4/19 20:00,6/4/19 20:36,Product 2,"Component 1,Component 2,Component 3,Component 4",92697
+SUCCESS,6/4/19 19:39,6/4/19 19:43,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+SUCCESS,6/4/19 15:47,6/4/19 15:55,Product 2,"Component 1,Component 2,Component 3,Component 4",66717
+FAILURE,6/4/19 15:13,6/4/19 15:45,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+SUCCESS,6/4/19 15:00,6/4/19 15:29,Product 2,"Component 1,Component 2,Component 3,Component 4",21006
+FAILURE,6/4/19 15:00,6/4/19 15:24,Product 2,"Component 1,Component 2,Component 3,Component 4",66717
+SUCCESS,6/4/19 15:00,6/4/19 15:45,Product 2,"Component 1,Component 2,Component 3,Component 4",38946
+FAILURE,6/4/19 14:37,6/4/19 15:03,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+SUCCESS,6/4/19 14:00,6/4/19 14:35,Product 1,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,6/4/19 14:00,6/4/19 15:04,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+FAILURE,6/4/19 13:24,6/4/19 13:50,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+SUCCESS,5/28/19 17:43,5/28/19 18:17,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,5/28/19 17:14,5/28/19 17:20,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+SUCCESS,5/18/19 0:00,5/18/19 1:08,Product 1,Component 1,21083
+SUCCESS,5/17/19 2:20,5/17/19 2:25,Product 2,Component 1,94730
+FAILURE,5/17/19 0:59,5/17/19 1:03,Product 2,Component 1,94730
+FAILURE,5/16/19 22:44,5/17/19 0:01,Product 2,Component 1,94730
+FAILURE,5/16/19 21:53,5/16/19 21:57,Product 2,Component 1,94730
+CANCELLED,5/16/19 21:41,5/16/19 21:53,Product 2,Component 1,94730
+FAILURE,5/16/19 20:42,5/16/19 20:47,Product 2,Component 1,94730
+FAILURE,5/16/19 19:58,5/16/19 20:19,Product 2,Component 1,94730
+SUCCESS,5/9/19 16:40,5/9/19 17:20,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,5/9/19 16:06,5/9/19 16:24,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+SUCCESS,4/23/19 3:23,4/23/19 3:28,Product 1,Component 1,34626
+FAILURE,4/23/19 1:04,4/23/19 1:23,Product 1,Component 1,34626
+FAILURE,4/22/19 18:19,4/22/19 18:31,Product 1,Component 1,88684
+FAILURE,4/19/19 2:55,4/19/19 21:26,Product 1,Component 1,88684
+FAILURE,4/19/19 2:32,4/19/19 2:36,Product 1,Component 1,88684
+FAILURE,4/18/19 18:04,4/19/19 1:55,Product 1,Component 1,88684
+SUCCESS,4/16/19 0:05,4/16/19 0:33,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,4/16/19 0:04,4/16/19 0:29,Product 2,"Component 1,Component 2,Component 3,Component 4",84180
+SUCCESS,4/16/19 0:00,4/16/19 1:07,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+SUCCESS,4/15/19 17:57,4/15/19 18:01,Product 1,"Component 1,Component 3,Component 4,console",34626
+SUCCESS,4/13/19 0:25,4/13/19 0:30,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+FAILURE,4/12/19 20:12,4/12/19 21:07,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+SUCCESS,4/12/19 20:02,4/12/19 20:57,Product 1,"Component 1,Component 2,Component 3,Component 4",68994
+FAILURE,4/12/19 20:02,4/12/19 20:09,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+SUCCESS,4/12/19 19:34,4/12/19 19:44,Product 1,Component 3,44518
+SUCCESS,4/12/19 19:33,4/12/19 19:38,Product 2,Component 3,38946
+CANCELLED,4/12/19 19:07,4/12/19 19:34,Product 1,Component 3,44518
+FAILURE,4/12/19 19:04,4/12/19 19:22,Product 2,Component 3,38946
+SUCCESS,4/12/19 19:02,4/12/19 19:13,Product 1,Component 3,78520
+SUCCESS,4/12/19 19:02,4/12/19 19:12,Product 1,Component 3,65501
+SUCCESS,4/12/19 19:02,4/12/19 19:12,Product 1,Component 3,61862
+SUCCESS,4/12/19 19:02,4/12/19 19:12,Product 1,Component 3,75510
+SUCCESS,4/12/19 19:02,4/12/19 19:12,Product 1,Component 3,81355
+SUCCESS,4/12/19 19:02,4/12/19 19:12,Product 1,Component 3,98091
+SUCCESS,4/12/19 19:01,4/12/19 19:11,Product 2,Component 3,68994
+SUCCESS,4/12/19 19:01,4/12/19 19:11,Product 2,Component 3,92697
+SUCCESS,4/12/19 19:01,4/12/19 19:08,Product 2,Component 3,98899
+SUCCESS,4/12/19 19:01,4/12/19 19:08,Product 2,Component 3,98091
+SUCCESS,4/12/19 19:01,4/12/19 19:08,Product 2,Component 3,98899
+SUCCESS,4/12/19 19:01,4/12/19 19:12,Product 2,Component 3,65501
+SUCCESS,4/12/19 19:01,4/12/19 19:11,Product 2,Component 3,98091
+SUCCESS,4/12/19 19:01,4/12/19 19:10,Product 2,Component 3,78520
+SUCCESS,4/12/19 9:05,4/12/19 9:40,Product 2,"Component 1,Component 2,Component 3,Component 4",50154
+SUCCESS,4/12/19 9:05,4/12/19 9:37,Product 2,"Component 1,Component 2,Component 3,Component 4",95821
+SUCCESS,4/12/19 9:05,4/12/19 9:40,Product 2,"Component 1,Component 2,Component 3,Component 4",90824
+CANCELLED,4/12/19 2:31,4/12/19 2:34,Product 1,Component 3,85943
+CANCELLED,4/12/19 2:30,4/12/19 2:33,Product 1,Component 3,21083
+FAILURE,4/12/19 2:11,4/12/19 2:16,Product 1,Component 3,83264
+CANCELLED,4/12/19 2:09,4/12/19 2:10,Product 1,Component 3,22719
+FAILURE,4/12/19 2:07,4/12/19 2:20,Product 1,Component 3,22719
+SUCCESS,4/12/19 2:01,4/12/19 2:19,Product 1,Component 3,22719
+FAILURE,4/12/19 1:57,4/12/19 2:30,Product 1,Component 3,21083
+CANCELLED,4/12/19 1:57,4/12/19 2:33,Product 1,Component 3,85943
+SUCCESS,4/12/19 1:51,4/12/19 1:56,Product 2,Component 3,86788
+CANCELLED,4/12/19 1:33,4/12/19 1:57,Product 1,Component 3,21083
+CANCELLED,4/12/19 1:33,4/12/19 1:57,Product 1,Component 3,85943
+FAILURE,4/12/19 1:32,4/12/19 1:45,Product 1,Component 3,83264
+SUCCESS,4/12/19 1:29,4/12/19 1:34,Product 1,Component 3,85074
+FAILURE,4/12/19 1:27,4/12/19 1:45,Product 2,Component 3,86788
+SUCCESS,4/12/19 1:21,4/12/19 1:37,Product 1,Component 3,73613
+SUCCESS,4/12/19 1:21,4/12/19 1:31,Product 1,Component 3,75841
+SUCCESS,4/12/19 1:20,4/12/19 1:31,Product 1,Component 3,19441
+FAILURE,4/12/19 1:19,4/12/19 1:59,Product 1,Component 3,22719
+SUCCESS,4/12/19 1:13,4/12/19 1:22,Product 2,Component 3,78191
+SUCCESS,4/12/19 1:12,4/12/19 1:24,Product 2,Component 3,19441
+CANCELLED,4/12/19 1:11,4/12/19 1:33,Product 1,Component 3,21083
+SUCCESS,4/12/19 1:10,4/12/19 1:26,Product 1,Component 3,22719
+SUCCESS,4/12/19 1:10,4/12/19 1:21,Product 1,Component 3,99900
+FAILURE,4/12/19 1:10,4/12/19 1:28,Product 1,Component 3,83264
+CANCELLED,4/12/19 1:10,4/12/19 1:33,Product 1,Component 3,85943
+SUCCESS,4/12/19 1:10,4/12/19 1:19,Product 1,Component 3,77983
+SUCCESS,4/12/19 1:10,4/12/19 1:19,Product 1,Component 3,99549
+SUCCESS,4/12/19 1:10,4/12/19 1:26,Product 1,Component 3,42233
+SUCCESS,4/12/19 1:10,4/12/19 1:17,Product 1,Component 3,84180
+SUCCESS,4/12/19 1:10,4/12/19 1:19,Product 1,Component 3,99549
+SUCCESS,4/12/19 1:10,4/12/19 1:17,Product 1,Component 3,99376
+SUCCESS,4/12/19 1:10,4/12/19 1:18,Product 1,Component 3,83264
+SUCCESS,4/12/19 1:10,4/12/19 1:19,Product 1,Component 3,21083
+FAILURE,4/12/19 1:10,4/12/19 2:07,Product 1,Component 3,22719
+SUCCESS,4/12/19 1:10,4/12/19 1:17,Product 1,Component 3,83264
+CANCELLED,4/12/19 1:10,4/12/19 1:29,Product 1,Component 3,85074
+CANCELLED,4/12/19 1:02,4/12/19 1:27,Product 2,Component 3,86788
+SUCCESS,4/12/19 1:02,4/12/19 1:08,Product 2,Component 3,24349
+SUCCESS,4/12/19 1:02,4/12/19 1:08,Product 2,Component 3,21083
+SUCCESS,4/12/19 1:02,4/12/19 1:08,Product 2,Component 3,85074
+SUCCESS,4/12/19 1:01,4/12/19 1:08,Product 2,Component 3,83264
+SUCCESS,4/12/19 1:01,4/12/19 1:08,Product 2,Component 3,99376
+SUCCESS,4/12/19 1:01,4/12/19 1:07,Product 1,Component 3,99811
+SUCCESS,4/12/19 1:01,4/12/19 1:07,Product 1,Component 3,21083
+SUCCESS,4/12/19 1:01,4/12/19 1:06,Product 1,Component 3,24349
+SUCCESS,4/12/19 1:01,4/12/19 1:06,Product 1,Component 3,34494
+SUCCESS,4/12/19 1:01,4/12/19 1:07,Product 1,Component 3,75841
+SUCCESS,4/12/19 1:01,4/12/19 1:11,Product 1,Component 3,24349
+SUCCESS,4/12/19 1:01,4/12/19 1:05,Product 1,Component 3,22719
+SUCCESS,4/12/19 0:55,4/12/19 1:00,Product 2,Component 3,85074
+SUCCESS,4/12/19 0:55,4/12/19 1:02,Product 2,Component 3,85074
+FAILURE,4/12/19 0:55,4/12/19 0:59,Product 2,Component 3,85074
+SUCCESS,4/12/19 0:55,4/12/19 1:00,Product 2,Component 3,99694
+FAILURE,4/12/19 0:55,4/12/19 0:59,Product 2,Component 3,22719
+SUCCESS,4/12/19 0:55,4/12/19 1:01,Product 2,Component 3,84180
+SUCCESS,4/12/19 0:04,4/12/19 0:53,Product 1,Component 3,34494
+SUCCESS,4/12/19 0:04,4/12/19 0:51,Product 1,Component 3,75841
+SUCCESS,4/12/19 0:04,4/12/19 0:51,Product 1,Component 3,42233
+SUCCESS,4/12/19 0:03,4/12/19 0:40,Product 1,Component 3,19441
+CANCELLED,4/12/19 0:03,4/12/19 1:21,Product 1,Component 3,73613
+FAILURE,4/12/19 0:03,4/12/19 0:28,Product 1,Component 3,83264
+SUCCESS,4/12/19 0:03,4/12/19 0:46,Product 1,Component 3,77983
+CANCELLED,4/12/19 0:03,4/12/19 1:21,Product 1,Component 3,75841
+SUCCESS,4/12/19 0:03,4/12/19 0:46,Product 1,Component 3,37622
+SUCCESS,4/12/19 0:03,4/12/19 0:50,Product 1,Component 3,74737
+SUCCESS,4/12/19 0:03,4/12/19 0:46,Product 1,Component 3,99549
+SUCCESS,4/12/19 0:02,4/12/19 0:44,Product 1,Component 3,85943
+SUCCESS,4/12/19 0:02,4/12/19 0:52,Product 1,Component 3,83264
+SUCCESS,4/12/19 0:02,4/12/19 0:47,Product 1,Component 3,60422
+SUCCESS,4/12/19 0:02,4/12/19 0:46,Product 1,Component 3,73613
+FAILURE,4/12/19 0:02,4/12/19 0:25,Product 1,Component 3,24349
+CANCELLED,4/12/19 0:02,4/12/19 1:20,Product 1,Component 3,19441
+SUCCESS,4/12/19 0:02,4/12/19 0:51,Product 1,Component 3,42233
+SUCCESS,4/12/19 0:02,4/12/19 0:52,Product 1,Component 3,60422
+CANCELLED,4/12/19 0:02,4/12/19 1:19,Product 1,Component 3,22719
+SUCCESS,4/12/19 0:02,4/12/19 0:26,Product 2,Component 3,76923
+SUCCESS,4/12/19 0:02,4/12/19 0:42,Product 2,Component 3,74737
+SUCCESS,4/12/19 0:01,4/12/19 0:36,Product 2,Component 3,39170
+SUCCESS,4/12/19 0:01,4/12/19 0:45,Product 2,Component 3,99549
+SUCCESS,4/12/19 0:01,4/12/19 0:12,Product 2,Component 3,76923
+CANCELLED,4/12/19 0:01,4/12/19 1:13,Product 2,Component 3,78191
+SUCCESS,4/12/19 0:01,4/12/19 0:39,Product 2,Component 3,39170
+SUCCESS,4/12/19 0:01,4/12/19 0:32,Product 2,Component 3,78191
+SUCCESS,4/12/19 0:01,4/12/19 0:35,Product 2,Component 3,99900
+SUCCESS,4/12/19 0:01,4/12/19 0:30,Product 2,Component 3,85943
+SUCCESS,4/12/19 0:01,4/12/19 0:24,Product 2,Component 3,19441
+SUCCESS,4/12/19 0:00,4/12/19 0:27,Product 2,Component 3,86788
+CANCELLED,4/12/19 0:00,4/12/19 1:12,Product 2,Component 3,19441
+SUCCESS,4/12/19 0:00,4/12/19 0:39,Product 2,Component 3,99900
+SUCCESS,4/12/19 0:00,4/12/19 0:31,Product 2,Component 3,83264
+SUCCESS,4/12/19 0:00,4/12/19 0:20,Product 2,Component 3,86788
+SUCCESS,4/12/19 0:00,4/12/19 0:27,Product 2,Component 3,99549
+SUCCESS,4/12/19 0:00,4/12/19 0:34,Product 2,Component 3,36063
+SUCCESS,4/11/19 21:02,4/11/19 21:44,Product 1,"Component 1,Component 2,Component 3,Component 4",97064
+CANCELLED,4/10/19 19:57,4/12/19 1:07,Product 1,"Component 1,Component 3,Component 4,console",34626
+SUCCESS,4/10/19 19:32,4/10/19 20:05,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,4/10/19 19:24,4/10/19 20:01,Product 1,"Component 1,Component 2,Component 3,Component 4",24349
+FAILURE,4/10/19 19:23,4/10/19 19:29,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,4/10/19 17:05,4/10/19 17:29,Product 1,"Component 1,Component 2,Component 3,Component 4",25971
+CANCELLED,4/10/19 17:02,4/10/19 17:03,Product 1,"Component 1,Component 2,Component 3,Component 4",25971
+SUCCESS,4/10/19 16:08,4/10/19 16:37,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+SUCCESS,4/9/19 21:00,4/9/19 21:30,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,4/9/19 20:31,4/9/19 20:50,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,4/9/19 20:07,4/9/19 20:25,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,4/9/19 19:42,4/9/19 20:00,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+CANCELLED,4/9/19 19:17,4/9/19 19:39,Product 1,Component 3,88684
+SUCCESS,4/9/19 18:37,4/9/19 18:42,Product 2,Component 3,94730
+FAILURE,4/4/19 23:34,4/4/19 23:55,Product 1,Component 1,34626
+SUCCESS,4/3/19 21:08,4/3/19 21:39,Product 1,Component 1,83264
+FAILURE,4/3/19 20:52,4/3/19 20:55,Product 1,Component 1,83264
+FAILURE,4/3/19 20:22,4/3/19 20:26,Product 1,Component 1,83264
+FAILURE,4/3/19 19:59,4/3/19 20:03,Product 1,Component 1,83264
+FAILURE,4/3/19 19:41,4/3/19 19:59,Product 1,Component 1,83264
+FAILURE,4/2/19 4:58,4/2/19 5:17,Product 1,Component 1,34626
+FAILURE,4/1/19 15:23,4/2/19 2:26,Product 1,Component 1,34626
+CANCELLED,3/30/19 18:44,3/30/19 18:58,Product 1,Component 1,85943
+CANCELLED,3/30/19 18:29,4/1/19 15:14,Product 1,"Component 1,Component 2,Component 3,Component 4",13455
+CANCELLED,3/30/19 16:22,3/30/19 17:20,Product 1,Component 1,85943
+SUCCESS,3/29/19 2:23,3/29/19 3:02,Product 1,Component 1,21083
+FAILURE,3/29/19 1:33,3/29/19 2:04,Product 1,"Component 1,Component 2,Component 3,Component 4",96917
+FAILURE,3/29/19 1:23,3/29/19 1:29,Product 1,"Component 1,Component 2,Component 3,Component 4",96917
+FAILURE,3/28/19 21:41,3/28/19 22:05,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,3/27/19 4:52,3/27/19 4:58,Product 1,Component 1,22719
+FAILURE,3/27/19 3:06,3/27/19 4:34,Product 1,Component 1,22719
+CANCELLED,3/26/19 21:04,3/26/19 21:40,Product 1,Component 1,88684
+FAILURE,3/26/19 2:50,3/26/19 3:02,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+SUCCESS,3/26/19 2:49,3/26/19 3:12,Product 2,"Component 1,Component 3,Component 4,Component 2",84239
+FAILURE,3/26/19 2:46,1/1/70 0:00,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+SUCCESS,3/26/19 2:28,3/26/19 2:36,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+FAILURE,3/26/19 0:57,3/26/19 1:58,Product 1,"Component 1,Component 2,Component 3,Component 4",13455
+FAILURE,3/26/19 0:41,3/26/19 0:48,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+FAILURE,3/26/19 0:31,3/26/19 0:56,Product 1,"Component 1,Component 2,Component 3,Component 4",13455
+FAILURE,3/25/19 23:52,3/26/19 0:06,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+FAILURE,3/25/19 23:10,3/26/19 0:35,Product 2,"Component 1,Component 3,Component 4,Component 2",84239
+FAILURE,3/25/19 23:09,3/25/19 23:27,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+CANCELLED,3/25/19 23:08,3/25/19 23:08,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+CANCELLED,3/25/19 23:06,3/25/19 23:07,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+FAILURE,3/25/19 23:06,3/25/19 23:18,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+CANCELLED,3/25/19 23:03,3/25/19 23:05,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+CANCELLED,3/25/19 22:52,3/25/19 22:57,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+CANCELLED,3/25/19 22:50,3/25/19 23:03,Product 2,"Component 1,Component 3,Component 4,Component 2",76648
+CANCELLED,3/25/19 22:44,3/25/19 22:49,Product 2,"Component 1,Component 3,Component 4,console",76648
+SUCCESS,3/25/19 20:52,3/25/19 20:56,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,3/25/19 18:10,3/25/19 18:30,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,3/25/19 17:13,3/25/19 18:00,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,3/25/19 16:55,3/25/19 17:12,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+SUCCESS,3/22/19 3:54,3/22/19 4:02,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+FAILURE,3/22/19 2:51,3/22/19 3:35,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,3/22/19 1:55,3/22/19 2:32,Product 2,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,3/22/19 1:55,3/22/19 2:26,Product 2,"Component 1,Component 2,Component 3,Component 4",36063
+SUCCESS,3/22/19 1:55,3/22/19 2:24,Product 2,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,3/22/19 1:55,3/22/19 2:32,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+FAILURE,3/22/19 1:55,3/22/19 2:20,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,3/22/19 1:55,3/22/19 2:31,Product 1,"Component 1,Component 2,Component 3,Component 4",75841
+SUCCESS,3/22/19 1:55,3/22/19 2:39,Product 1,"Component 1,Component 2,Component 3,Component 4",34494
+SUCCESS,3/22/19 1:49,3/22/19 1:57,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+FAILURE,3/22/19 0:36,3/22/19 1:17,Product 1,"Component 1,Component 2,Component 3,Component 4",65501
+SUCCESS,3/22/19 0:02,3/22/19 0:49,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,3/21/19 2:05,3/21/19 2:15,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,3/21/19 0:54,3/21/19 1:32,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,3/21/19 0:40,3/21/19 0:46,Product 1,"Component 1,Component 2,Component 3,Component 4",37622
+FAILURE,3/21/19 0:13,3/21/19 1:23,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,3/21/19 0:06,3/21/19 0:43,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,3/21/19 0:06,3/21/19 0:36,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+SUCCESS,3/21/19 0:06,3/21/19 0:45,Product 1,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,3/21/19 0:05,3/21/19 0:36,Product 2,"Component 1,Component 2,Component 3,Component 4",85074
+SUCCESS,3/21/19 0:05,3/21/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,3/21/19 0:05,3/21/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",24349
+SUCCESS,3/21/19 0:04,3/21/19 0:41,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+CANCELLED,3/21/19 0:04,3/21/19 0:53,Product 1,"Component 1,Component 2,Component 3,Component 4",77983
+FAILURE,3/21/19 0:04,3/21/19 0:37,Product 1,"Component 1,Component 2,Component 3,Component 4",37622
+SUCCESS,3/21/19 0:04,3/21/19 0:40,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+CANCELLED,3/21/19 0:04,3/21/19 0:10,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,3/21/19 0:03,3/21/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,3/21/19 0:03,3/21/19 0:32,Product 2,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,3/21/19 0:03,3/21/19 0:39,Product 2,"Component 1,Component 2,Component 3,Component 4",76923
+SUCCESS,3/21/19 0:03,3/21/19 0:39,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,3/21/19 0:03,3/21/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,3/21/19 0:03,3/21/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,3/21/19 0:03,3/21/19 0:35,Product 2,"Component 1,Component 2,Component 3,Component 4",74737
+SUCCESS,3/20/19 19:02,3/20/19 19:48,Product 1,"Component 1,Component 2,Component 3,Component 4",81355
+SUCCESS,3/20/19 19:02,3/20/19 19:41,Product 1,"Component 1,Component 2,Component 3,Component 4",78520
+SUCCESS,3/20/19 19:02,3/20/19 19:32,Product 2,"Component 1,Component 2,Component 3,Component 4",50154
+SUCCESS,3/20/19 19:02,3/20/19 19:32,Product 2,"Component 1,Component 2,Component 3,Component 4",90824
+SUCCESS,3/20/19 19:02,3/20/19 19:39,Product 2,"Component 1,Component 2,Component 3,Component 4",94730
+SUCCESS,3/20/19 19:02,3/20/19 19:31,Product 2,"Component 1,Component 2,Component 3,Component 4",98899
+SUCCESS,3/20/19 15:00,3/20/19 15:41,Product 1,"Component 1,Component 2,Component 3,Component 4",16443
+SUCCESS,3/20/19 3:19,3/20/19 3:46,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+FAILURE,3/20/19 2:01,3/20/19 3:00,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+SUCCESS,3/20/19 0:03,3/20/19 0:39,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,3/20/19 0:02,3/20/19 0:43,Product 2,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,3/20/19 0:02,3/20/19 0:38,Product 2,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,3/20/19 0:02,3/20/19 0:32,Product 2,"Component 1,Component 2,Component 3,Component 4",39170
+SUCCESS,3/20/19 0:02,3/20/19 0:39,Product 1,"Component 1,Component 2,Component 3,Component 4",85943
+SUCCESS,3/20/19 0:02,3/20/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",19441
+SUCCESS,3/20/19 0:02,3/20/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,3/19/19 19:02,3/19/19 19:56,Product 1,"Component 1,Component 2,Component 3,Component 4",97064
+SUCCESS,3/19/19 19:02,3/19/19 19:32,Product 1,"Component 1,Component 2,Component 3,Component 4",61862
+SUCCESS,3/19/19 19:02,3/19/19 19:37,Product 2,"Component 1,Component 2,Component 3,Component 4",78520
+SUCCESS,3/19/19 19:02,3/19/19 19:35,Product 2,"Component 1,Component 2,Component 3,Component 4",65501
+SUCCESS,3/19/19 19:01,3/19/19 19:35,Product 2,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,3/19/19 19:01,3/19/19 19:28,Product 2,"Component 1,Component 2,Component 3,Component 4",68994
+SUCCESS,3/19/19 19:01,3/19/19 19:35,Product 2,"Component 1,Component 2,Component 3,Component 4",98091
+SUCCESS,3/19/19 19:01,3/19/19 19:31,Product 2,"Component 1,Component 2,Component 3,Component 4",92697
+SUCCESS,3/19/19 19:01,3/19/19 19:35,Product 2,"Component 1,Component 2,Component 3,Component 4",95821
+SUCCESS,3/19/19 15:21,3/19/19 16:05,Product 2,"Component 1,Component 2,Component 3,Component 4",38946
+FAILURE,3/19/19 15:01,3/19/19 15:18,Product 2,"Component 1,Component 2,Component 3,Component 4",38946
+SUCCESS,3/19/19 15:00,3/19/19 15:30,Product 1,"Component 1,Component 2,Component 3,Component 4",34626
+FAILURE,3/19/19 13:20,3/19/19 13:35,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+SUCCESS,3/19/19 13:05,3/19/19 13:09,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,3/19/19 1:10,3/19/19 1:16,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,3/19/19 0:52,3/19/19 1:17,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+FAILURE,3/19/19 0:02,3/19/19 0:59,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+FAILURE,3/19/19 0:02,3/19/19 0:46,Product 1,"Component 1,Component 2,Component 3,Component 4",21083
+SUCCESS,3/19/19 0:02,3/19/19 0:39,Product 1,"Component 1,Component 2,Component 3,Component 4",99549
+SUCCESS,3/19/19 0:02,3/19/19 0:32,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,3/19/19 0:02,3/19/19 0:39,Product 1,"Component 1,Component 2,Component 3,Component 4",22719
+SUCCESS,3/19/19 0:01,3/19/19 0:32,Product 1,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,3/19/19 0:01,3/19/19 0:33,Product 2,"Component 1,Component 2,Component 3,Component 4",99376
+SUCCESS,3/19/19 0:01,3/19/19 0:27,Product 2,"Component 1,Component 2,Component 3,Component 4",83264
+SUCCESS,3/19/19 0:01,3/19/19 0:32,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,3/19/19 0:01,3/19/19 0:35,Product 1,"Component 1,Component 2,Component 3,Component 4",60422
+SUCCESS,3/19/19 0:01,3/19/19 0:31,Product 1,"Component 1,Component 2,Component 3,Component 4",74737
+SUCCESS,3/19/19 0:01,3/19/19 0:40,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,3/19/19 0:01,3/19/19 0:43,Product 1,"Component 1,Component 2,Component 3,Component 4",73613
+SUCCESS,3/19/19 0:01,3/19/19 0:30,Product 1,"Component 1,Component 2,Component 3,Component 4",42233
+SUCCESS,3/19/19 0:00,3/19/19 0:31,Product 2,"Component 1,Component 2,Component 3,Component 4",78191
+SUCCESS,3/19/19 0:00,3/19/19 0:34,Product 2,"Component 1,Component 2,Component 3,Component 4",78191
+SUCCESS,3/19/19 0:00,3/19/19 0:26,Product 2,"Component 1,Component 2,Component 3,Component 4",86788
+SUCCESS,3/19/19 0:00,3/19/19 0:29,Product 2,"Component 1,Component 2,Component 3,Component 4",76923
+SUCCESS,3/19/19 0:00,3/19/19 0:28,Product 2,"Component 1,Component 2,Component 3,Component 4",99900
+SUCCESS,3/18/19 18:57,3/18/19 19:04,Product 1,"Component 1,Component 2,Component 3,Component 4",96917
+FAILURE,3/15/19 2:29,3/15/19 3:08,Product 1,"Component 1,Component 2,Component 3,Component 4",96917
+SUCCESS,3/8/19 22:46,3/8/19 22:52,Product 1,Component 1,65501
+FAILURE,3/8/19 21:26,3/8/19 22:36,Product 1,Component 1,65501
+SUCCESS,3/8/19 20:40,3/8/19 21:19,Product 1,Component 1,68994
+SUCCESS,3/7/19 17:38,3/7/19 17:58,Product 1,Component 1,83264
+SUCCESS,3/1/19 20:36,3/1/19 20:40,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+FAILURE,3/1/19 17:05,3/1/19 17:19,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+CANCELLED,2/27/19 21:58,2/27/19 21:58,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
+CANCELLED,2/27/19 21:43,2/27/19 21:45,Product 1,"Component 1,Component 2,Component 3,Component 4",88684
