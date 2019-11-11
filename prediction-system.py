@@ -33,35 +33,16 @@ def stationary_check(timedata):
     print()
     print('p-value:', df[1])
 
-if __name__ == "__main__":
-    # Read data
-    deployment = pd.read_csv('Deployment.csv',
-                             delimiter=',', usecols=[0, 1, 3, 4], skiprows=1,
-                             names=['JobResult', 'CreationTime', 'Duration', 'ProductName'],
-                             parse_dates=['CreationTime'])
+def get_count(file_data):
 
-    expansion = pd.read_csv('Expansion.csv',
-                            delimiter=',', usecols=[0, 1, 3, 4], skiprows=1,
-                            names=['JobResult', 'CreationTime', 'Duration', 'ProductName'],
-                            parse_dates=['CreationTime'])
+    # Create new Dataframe with only CreationTime and Count
+    data = file_data.loc[:, ['Count']]
+    data = data.set_index(file_data.CreationTime)
 
-    update = pd.read_csv('Update.csv',
-                         delimiter=',', usecols=[0, 1, 3, 4], skiprows=1,
-                         names=['JobResult', 'CreationTime', 'Duration', 'ProductName'],
-                         parse_dates=['CreationTime'])
-
-    # No null value was found
-    #deployment = deployment.set_index(deployment.CreationTime)
-    deployment['Count'] = deployment.apply(lambda row: 1, axis=1)
-
-    #Create new Dataframe with only CreationTime and Count
-    data = deployment.loc[:, ['Count']]
-    data = data.set_index(deployment.CreationTime)
-
-    #Number of customer each unit day, time, week
+    # Number of customer each unit day, time, week
     # week = data.resample('W').sum()
     # day = data.resample('D').sum()
-    #We just care about hour for now
+    # We just care about hour for now
     hour = data.resample('H').sum()
 
     # Assigne Count result to all CreationTime
@@ -72,72 +53,22 @@ if __name__ == "__main__":
             if i.hour == j.hour and i.day == j.day and i.month == j.month:
                 data.at[i, 'Count'] = hour.get_value(j, 'Count')
                 break
+    return data
 
-    #stationary_check(data)
-    #From the graph, we cannot apply stationary model for this time dataset
-    #Scale data
+def forecast(data):
+    # Scale data
     data_scaled = np.log(data)
 
-    #Splitting train, test
+    # Splitting train, test
     x = data_scaled['Count']
     x_train = x[117:]
     x_test = x[:116]
     indexs = x_test.index
     str_indexs = [i.strftime('%y-%m-%d %H:%M:%S') for i in indexs]
-
-    # #Create model
-    # ######################################
-    # #Finding pqd
-    # p = d = q = range(0,5)
-    # pdq = list(itertools.product(p,d,q))
-    #
-    # mean = 1000
-    # index = 0
-    # for i in pdq:
-    #     try:
-    #         model = ARIMA(x_train, order=i)
-    #         arima = model.fit()
-    #         if arima.aic < mean:
-    #             mean = arima.aic
-    #             index = i
-    #     except:
-    #         continue
-    # print(index)
-    # ########################################
-
-    model = ARIMA(x_train, order=(6,0,2))
-    arima = model.fit()
-    print(arima.summary())
-    plt.plot(x_train)
-    plt.plot(arima.fittedvalues, color='red')
-    plt.show()
-
-    #Plotting the precdict and actual for test data
-    fc, se, conf = arima.forecast(116, alpha=0.1)  # 90% conf
-    fc_series = pd.Series(fc, index=x_test.index)
-    lower_series = pd.Series(conf[:, 0], index=x_test.index)
-    upper_series = pd.Series(conf[:, 1], index=x_test.index)
-    # Plot
-    plt.figure(1)
-    plt.figure(figsize=(12, 5), dpi=100)
-    plt.plot(x_train, label='training')
-    plt.plot(x_test, label='actual')
-    plt.plot(fc_series, label='forecast')
-    plt.fill_between(lower_series.index, lower_series, upper_series,
-                     color='k', alpha=.15)
-    plt.title('Forecast vs Actuals')
-    plt.legend(loc='upper left', fontsize=8)
-    plt.show(block= False)
-
-    #Plotting future prediction
-    arima.plot_predict(400,592)
-    plt.figure(2)
-    plt.show(block= False)
-
     #Drawing the future
     smodel = pm.auto_arima(data, start_p=1, start_q=1,
                            test='adf',
-                           max_p=6, max_q=2, m=30,
+                           max_p=3, max_q=3, m=12,
                            start_P=0, seasonal=True,
                            d=None, D=1, trace=True,
                            error_action='ignore',
@@ -146,7 +77,7 @@ if __name__ == "__main__":
     print(smodel.summary())
 
     # Forecast
-    n_periods = 30
+    n_periods = 12
     fitted, confint = smodel.predict(n_periods=n_periods, return_conf_int=True)
     index_of_fc = pd.date_range(data.index[-1], periods=n_periods, freq='MS')
 
@@ -165,26 +96,33 @@ if __name__ == "__main__":
                      color='k', alpha=.15)
     plt.show()
 
-    #Reference: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+if __name__ == "__main__":
+    # Read data
+    deployment = pd.read_csv('Deployment.csv',
+                             delimiter=',', usecols=[0, 1, 3, 4], skiprows=1,
+                             names=['JobResult', 'CreationTime', 'Duration', 'ProductName'],
+                             parse_dates=['CreationTime'])
 
-    # #Prediction
-    # output = arima.forecast(steps=10)[0]
-    # print(output)
-    #
-    # pred = []
-    # for i in range(len(x_test)):
-    #     #THIS IS AN INTERVAL, NEED TO DO BE PLOTTED
-    #     output = arima.forecast(steps=10)
-    #     print(output)
-    #     yhat = output[0]
-    #     pred.append(yhat)
-    # error = mean_squared_error(x_test, output)
-    # print('Test MSE: %.3f' % error)
+    expansion = pd.read_csv('Expansion.csv',
+                            delimiter=',', usecols=[0, 1, 3, 4], skiprows=1,
+                            names=['JobResult', 'CreationTime', 'Duration', 'ProductName'],
+                            parse_dates=['CreationTime'])
 
-    # pred = pd.DataFrame(pred)
-    # pred['CreationTime'] = str_indexs
-    # pred['CreationTime'] = pd.to_datetime(pred['CreationTime'])
-    # pred = pred.set_index(pred.CreationTime)
-    # pred = pred.drop(['CreationTime'], axis=1)
-    # # NEED TO FIX THE PREDICTION
+    update = pd.read_csv('Update.csv',
+                         delimiter=',', usecols=[0, 1, 3, 4], skiprows=1,
+                         names=['JobResult', 'CreationTime', 'Duration', 'ProductName'],
+                         parse_dates=['CreationTime'])
 
+    # No null value was found
+    # deployment = deployment.set_index(deployment.CreationTime)
+    deployment['Count'] = deployment.apply(lambda row: 1, axis=1)
+    de_data = get_count(deployment)
+    forecast(de_data)
+
+    expansion['Count'] = expansion.apply(lambda row: 1, axis=1)
+    ex_data = get_count(expansion)
+    forecast(ex_data)
+
+    update['Count'] = update.apply(lambda row: 1, axis=1)
+    up_data = get_count(update)
+    forecast(up_data)
