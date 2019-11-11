@@ -95,6 +95,7 @@ def forecast(data):
                      upper_series,
                      color='k', alpha=.15)
     plt.show()
+    #Reference: https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 
 if __name__ == "__main__":
     # Read data
